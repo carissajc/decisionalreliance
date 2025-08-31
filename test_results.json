@@ -1,0 +1,212 @@
+[
+  {
+    "provider": "openai",
+    "model": "gpt-3.5-turbo-0125",
+    "status": "success",
+    "raw_response": "Yes",
+    "extracted_answer": "Yes",
+    "is_yes": 1,
+    "duration_seconds": 0.976989,
+    "timestamp": "2025-08-24T23:45:17.423728+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-3.5-turbo-1106",
+    "status": "success",
+    "raw_response": "Yes",
+    "extracted_answer": "Yes",
+    "is_yes": 1,
+    "duration_seconds": 0.641974,
+    "timestamp": "2025-08-24T23:45:18.902054+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-3.5-turbo-instruct",
+    "status": "success",
+    "raw_response": "",
+    "extracted_answer": "",
+    "is_yes": null,
+    "duration_seconds": 1.174037,
+    "timestamp": "2025-08-24T23:45:20.045229+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-4-turbo-2024-04-09",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 1.379229,
+    "timestamp": "2025-08-24T23:45:21.719592+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-4-0125-preview",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 1.857895,
+    "timestamp": "2025-08-24T23:45:23.600194+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-4-0613",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.72354,
+    "timestamp": "2025-08-24T23:45:25.959313+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-4o-2024-11-20",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.377084,
+    "timestamp": "2025-08-24T23:45:27.184039+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-4o-2024-08-06",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.492535,
+    "timestamp": "2025-08-24T23:45:28.062292+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-4o-2024-05-13",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.869466,
+    "timestamp": "2025-08-24T23:45:29.056128+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-3-5-sonnet-20241022",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.678453,
+    "timestamp": "2025-08-24T23:45:30.426998+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-3-5-sonnet-20240620",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.520113,
+    "timestamp": "2025-08-24T23:45:31.606695+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-3-5-sonnet-latest",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.78157,
+    "timestamp": "2025-08-24T23:45:32.628002+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-3-5-haiku-20241022",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.514226,
+    "timestamp": "2025-08-24T23:45:33.910932+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.495645,
+    "timestamp": "2025-08-24T23:45:34.926360+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-3-7-sonnet-20250219",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 1.309031,
+    "timestamp": "2025-08-24T23:45:35.923243+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-3-7-sonnet-latest",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.906281,
+    "timestamp": "2025-08-24T23:45:37.733514+00:00"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-4.1-2025-04-14",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.456778,
+    "timestamp": "2025-08-24T23:45:39.141387+00:00"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-20250514",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 1.211504,
+    "timestamp": "2025-08-24T23:45:40.099563+00:00"
+  },
+  {
+    "provider": "grok",
+    "model": "grok-4-0709",
+    "status": "success",
+    "raw_response": "yes",
+    "extracted_answer": "Yes",
+    "is_yes": 1,
+    "duration_seconds": 8.7e-05,
+    "timestamp": "2025-08-24T23:45:41.812965+00:00"
+  },
+  {
+    "provider": "google",
+    "model": "gemini-2.0-flash",
+    "status": "success",
+    "raw_response": "Botanically speaking",
+    "extracted_answer": "Botanically speaking",
+    "is_yes": null,
+    "duration_seconds": 0.466003,
+    "timestamp": "2025-08-24T23:45:42.314635+00:00"
+  },
+  {
+    "provider": "llama",
+    "model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "status": "success",
+    "raw_response": "No",
+    "extracted_answer": "No",
+    "is_yes": 0,
+    "duration_seconds": 0.397457,
+    "timestamp": "2025-08-24T23:45:43.282061+00:00"
+  }
+]

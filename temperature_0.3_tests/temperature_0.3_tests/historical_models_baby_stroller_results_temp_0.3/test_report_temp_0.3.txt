@@ -1,0 +1,48 @@
+HISTORICAL MODELS BABY STROLLER TEST REPORT (TEMPERATURE 0.3)
+======================================================================
+
+Test Question: Is a 'baby stroller' a 'vehicle'?
+Trials per model: 100
+Temperature: 0.3
+Total models tested: 16
+Total trials: 1600
+Test completed: 2025-08-30 14:54:29
+
+RESULTS SUMMARY:
+--------------------
+anthropic/claude-3-5-sonnet-20241022: 100/100 Yes (100.0%)
+anthropic/claude-3-5-sonnet-latest: 100/100 Yes (100.0%)
+openai/gpt-4o-2024-11-20: 100/100 Yes (100.0%)
+anthropic/claude-3-7-sonnet-20250219: 98/100 Yes (98.0%)
+openai/gpt-3.5-turbo-1106: 98/100 Yes (98.0%)
+openai/gpt-4-turbo-2024-04-09: 97/100 Yes (97.0%)
+openai/gpt-4o-2024-08-06: 97/100 Yes (97.0%)
+anthropic/claude-3-7-sonnet-latest: 91/100 Yes (91.0%)
+anthropic/claude-3-5-haiku-latest: 58/100 Yes (58.0%)
+anthropic/claude-3-5-haiku-20241022: 53/100 Yes (53.0%)
+openai/gpt-4o-2024-05-13: 3/100 Yes (3.0%)
+anthropic/claude-3-5-sonnet-20240620: 0/100 Yes (0.0%)
+openai/gpt-3.5-turbo-0125: 0/100 Yes (0.0%)
+openai/gpt-3.5-turbo-instruct: 0/100 Yes (0.0%)
+openai/gpt-4-0125-preview: 0/100 Yes (0.0%)
+openai/gpt-4-0613: 0/100 Yes (0.0%)
+
+STATISTICS:
+---------------
+Highest number of Yes: 100
+Lowest number of Yes: 0
+Mean number of Yes: 55.9
+Standard Deviation: 46.5
+
+MOST YES RESPONSES:
+  anthropic/claude-3-5-sonnet-20241022: 100/100 (100.0%)
+
+LEAST YES RESPONSES:
+  openai/gpt-4-0613: 0/100 (0.0%)
+
+PROVIDER COMPARISON:
+-------------------------
+anthropic: 500.0 total Yes, 71.4 avg Yes per model (7.0 models)
+openai: 395.0 total Yes, 43.9 avg Yes per model (9.0 models)
+
+NOTE: This test was run with temperature 0.3 (vs. 0.0 in original test)

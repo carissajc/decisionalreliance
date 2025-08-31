@@ -1,0 +1,1778 @@
+provider,model,trial,question,raw_text,extracted_answer,temperature
+openai,gpt-3.5-turbo-0125,0,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,1,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,2,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,3,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,4,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,5,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,6,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,7,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,8,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,9,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,10,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,11,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,12,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,13,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,14,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,15,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,16,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,17,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,18,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,19,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,20,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,21,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,22,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,23,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,24,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,25,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,26,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,27,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,28,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,29,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,30,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,31,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,32,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,33,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,34,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,35,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,36,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,37,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,38,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,39,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,40,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,41,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,42,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,43,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,44,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,45,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,46,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,47,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,48,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,49,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,50,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,51,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,52,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,53,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,54,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,55,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,56,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,57,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-3.5-turbo-0125,58,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,59,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,60,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,61,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,62,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,63,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,64,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,65,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,66,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,67,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,68,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,69,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,70,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,71,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,72,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,73,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,74,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,75,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,76,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,77,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,78,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,79,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,80,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,81,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,82,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,83,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,84,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,85,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,86,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,87,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,88,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,89,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,90,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,91,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,92,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,93,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,94,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,95,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,96,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,97,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-0125,98,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-0125,99,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,0,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,1,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,2,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,3,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,4,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,5,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,6,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,7,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,8,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,9,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,10,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,11,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,12,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,13,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-3.5-turbo-1106,14,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,15,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,16,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,17,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,18,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,19,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,20,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,21,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,22,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,23,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,24,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,25,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,26,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,27,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,28,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,29,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+openai,gpt-3.5-turbo-1106,30,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,31,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,32,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,33,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,34,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,35,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,36,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,37,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,38,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,39,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+openai,gpt-3.5-turbo-1106,40,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,41,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,42,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,43,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,44,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,45,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,46,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,47,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,48,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,49,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,50,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,51,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,52,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,53,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,54,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,55,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+openai,gpt-3.5-turbo-1106,56,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,57,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-3.5-turbo-1106,58,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,59,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,60,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,61,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,62,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,63,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,64,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,65,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,66,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,67,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,68,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,69,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,70,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,71,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,72,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,73,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,74,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,75,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,76,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,77,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,78,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,79,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,80,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,81,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,82,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,83,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-3.5-turbo-1106,84,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,85,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,86,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,87,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,88,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,89,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,90,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,91,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-3.5-turbo-1106,92,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,93,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,94,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,95,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,96,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,97,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,98,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-1106,99,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-3.5-turbo-instruct,0,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,1,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,2,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,3,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,4,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,5,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,6,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,7,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,8,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,9,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,10,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,11,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,12,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,13,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,14,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,15,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,16,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,17,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,18,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,19,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,20,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,21,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,22,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,23,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,24,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,25,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,26,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,27,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,28,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,29,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,30,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,31,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,32,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,33,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,34,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,35,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,36,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,37,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,38,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,39,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,40,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,41,Are 'roller skates' a 'vehicle'?,"
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,42,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,43,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,44,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,45,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,46,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,47,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,48,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,49,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,50,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,51,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,52,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,53,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,54,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,55,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,56,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,57,Are 'roller skates' a 'vehicle'?,"
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,58,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,59,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,60,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,61,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,62,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,63,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,64,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,65,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,66,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,67,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,68,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,69,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,70,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,71,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,72,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,73,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,74,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,75,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,76,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,77,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,78,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,79,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,80,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,81,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,82,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,83,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,84,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,85,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,86,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,87,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,88,Are 'roller skates' a 'vehicle'?,"
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,89,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,90,Are 'roller skates' a 'vehicle'?,"
+
+The term",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,91,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,92,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,93,Are 'roller skates' a 'vehicle'?,"
+
+It depends",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,94,Are 'roller skates' a 'vehicle'?,"
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,95,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,96,Are 'roller skates' a 'vehicle'?,"
+
+No,",No,0.7
+openai,gpt-3.5-turbo-instruct,97,Are 'roller skates' a 'vehicle'?,"
+The term",Unknown,0.7
+openai,gpt-3.5-turbo-instruct,98,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-3.5-turbo-instruct,99,Are 'roller skates' a 'vehicle'?,"
+
+Yes,",Yes,0.7
+openai,gpt-4-turbo-2024-04-09,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,1,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,3,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,4,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,5,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,6,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,10,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,11,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,12,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,15,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,18,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,19,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,20,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,21,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,22,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,23,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,24,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,26,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,32,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,33,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,34,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,36,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,37,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,38,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,39,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,40,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,41,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,42,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,43,Are 'roller skates' a 'vehicle'?,The term ',Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,44,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,45,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,47,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,48,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,49,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,55,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,57,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,58,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,60,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,61,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,62,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,63,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,64,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,65,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,67,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,69,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,70,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,71,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,72,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,74,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,75,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,76,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,77,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,78,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,80,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,81,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,82,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,84,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,85,Are 'roller skates' a 'vehicle'?,'Roller,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,86,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,88,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,89,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,90,Are 'roller skates' a 'vehicle'?,The term ',Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,94,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,96,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,97,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-turbo-2024-04-09,99,Are 'roller skates' a 'vehicle'?,In general terms,Unknown,0.7
+openai,gpt-4-0125-preview,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,1,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,2,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,3,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,4,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,5,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,6,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,9,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,10,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,11,Are 'roller skates' a 'vehicle'?,The categorization,Unknown,0.7
+openai,gpt-4-0125-preview,12,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,15,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,18,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,19,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-0125-preview,20,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,21,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,22,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,23,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,24,Are 'roller skates' a 'vehicle'?,"""Roller",Unknown,0.7
+openai,gpt-4-0125-preview,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,26,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,30,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,32,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,33,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,34,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,36,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,37,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,38,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,39,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,40,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,41,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,42,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,43,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,44,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4-0125-preview,45,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,47,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,48,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,49,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,52,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,54,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-0125-preview,55,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,57,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,58,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,60,Are 'roller skates' a 'vehicle'?,In general terms,Unknown,0.7
+openai,gpt-4-0125-preview,61,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,62,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,63,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,64,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,65,Are 'roller skates' a 'vehicle'?,In the broad,Unknown,0.7
+openai,gpt-4-0125-preview,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,67,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,69,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,70,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,71,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,72,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,74,Are 'roller skates' a 'vehicle'?,"Whether ""roller",Unknown,0.7
+openai,gpt-4-0125-preview,75,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,76,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,77,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,78,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,81,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,82,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,84,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,85,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,86,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,87,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,89,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-0125-preview,90,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,94,Are 'roller skates' a 'vehicle'?,In general terms,Unknown,0.7
+openai,gpt-4-0125-preview,95,Are 'roller skates' a 'vehicle'?,"In general,",Unknown,0.7
+openai,gpt-4-0125-preview,96,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,97,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4-0125-preview,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0125-preview,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4-0613,0,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,1,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,2,Are 'roller skates' a 'vehicle'?,"Yes, technically",Yes,0.7
+openai,gpt-4-0613,3,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,4,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,5,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,6,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,7,Are 'roller skates' a 'vehicle'?,In a broader,Unknown,0.7
+openai,gpt-4-0613,8,Are 'roller skates' a 'vehicle'?,While they may,Unknown,0.7
+openai,gpt-4-0613,9,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,10,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,11,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,12,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-4-0613,13,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-0613,14,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,15,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,16,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,17,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-0613,18,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-0613,19,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,20,Are 'roller skates' a 'vehicle'?,"Yes, technically",Yes,0.7
+openai,gpt-4-0613,21,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,22,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,23,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,24,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,25,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-0613,26,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-0613,27,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,28,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-0613,29,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,30,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,31,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,32,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-0613,33,Are 'roller skates' a 'vehicle'?,In some contexts,Unknown,0.7
+openai,gpt-4-0613,34,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,35,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-0613,36,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,37,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,38,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,39,Are 'roller skates' a 'vehicle'?,"Yes, in",Yes,0.7
+openai,gpt-4-0613,40,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,41,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-4-0613,42,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,43,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,44,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,45,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,46,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,47,Are 'roller skates' a 'vehicle'?,In a general,Unknown,0.7
+openai,gpt-4-0613,48,Are 'roller skates' a 'vehicle'?,"Yes, in",Yes,0.7
+openai,gpt-4-0613,49,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,50,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,51,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-4-0613,52,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-4-0613,53,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,54,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,55,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,56,Are 'roller skates' a 'vehicle'?,"Yes, technically",Yes,0.7
+openai,gpt-4-0613,57,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,58,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,59,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,60,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,61,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,62,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,63,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-4-0613,64,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,65,Are 'roller skates' a 'vehicle'?,While not traditionally,Unknown,0.7
+openai,gpt-4-0613,66,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,67,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-0613,68,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-4-0613,69,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,70,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,71,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,72,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,73,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,74,Are 'roller skates' a 'vehicle'?,The definition of,Unknown,0.7
+openai,gpt-4-0613,75,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,76,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,77,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,78,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,79,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,80,Are 'roller skates' a 'vehicle'?,Technically speaking,Unknown,0.7
+openai,gpt-4-0613,81,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4-0613,82,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,83,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,84,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,85,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,86,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,87,Are 'roller skates' a 'vehicle'?,Technically speaking,Unknown,0.7
+openai,gpt-4-0613,88,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-4-0613,89,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,90,Are 'roller skates' a 'vehicle'?,"Yes, in",Yes,0.7
+openai,gpt-4-0613,91,Are 'roller skates' a 'vehicle'?,"No, roller",No,0.7
+openai,gpt-4-0613,92,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+openai,gpt-4-0613,93,Are 'roller skates' a 'vehicle'?,In a broad,Unknown,0.7
+openai,gpt-4-0613,94,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,95,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,96,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,97,Are 'roller skates' a 'vehicle'?,While not typically,Unknown,0.7
+openai,gpt-4-0613,98,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4-0613,99,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+openai,gpt-4o-2024-11-20,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,1,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,3,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,4,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,5,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4o-2024-11-20,6,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,10,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,11,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,12,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,13,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4o-2024-11-20,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,15,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,17,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4o-2024-11-20,18,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-11-20,19,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,20,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,21,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,22,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,23,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,24,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,26,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,32,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,33,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,34,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,36,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,37,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,38,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,39,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,40,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4o-2024-11-20,41,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,42,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,43,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,44,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,45,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,47,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,48,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4o-2024-11-20,49,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,55,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,57,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,58,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,60,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4o-2024-11-20,61,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,62,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,63,Are 'roller skates' a 'vehicle'?,The term **,Unknown,0.7
+openai,gpt-4o-2024-11-20,64,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,65,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,67,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,69,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,70,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,71,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,72,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+openai,gpt-4o-2024-11-20,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,74,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,75,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,76,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,77,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,78,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,81,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,82,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,84,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,85,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,86,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,89,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+openai,gpt-4o-2024-11-20,90,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,94,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,96,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,97,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-11-20,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,1,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,3,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,4,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,5,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,6,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,10,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,11,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,12,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,15,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,18,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,19,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,20,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,21,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,22,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,23,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,24,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,26,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,27,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,32,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,33,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,34,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,36,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,37,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,38,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,39,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,40,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,41,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,42,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,43,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,44,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,45,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,47,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,48,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,49,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,55,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,57,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,58,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,60,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,61,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,62,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,63,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,64,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,65,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,67,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,69,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,70,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,71,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,72,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,74,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,75,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,76,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,77,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,78,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,81,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,82,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,83,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,84,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,85,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,86,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,89,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,90,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,94,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,96,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,97,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-08-06,98,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-08-06,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,1,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,3,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,4,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,5,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,6,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,10,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,11,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,12,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,15,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,16,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,18,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,19,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,20,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,21,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,22,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,23,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,24,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,26,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,32,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,33,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,34,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,36,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,37,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,38,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,39,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,40,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,41,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,42,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,43,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,44,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,45,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,47,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,48,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,49,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,55,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,56,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,57,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,58,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,60,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,61,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,62,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,63,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,64,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,65,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,66,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,67,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,69,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,70,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,71,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,72,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,74,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,75,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,76,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,77,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,78,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,81,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,82,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,84,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,85,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,86,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,89,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,90,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,92,Are 'roller skates' a 'vehicle'?,"The term """,Unknown,0.7
+openai,gpt-4o-2024-05-13,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,94,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,96,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,97,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+openai,gpt-4o-2024-05-13,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,0,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,1,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,3,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,4,Are 'roller skates' a 'vehicle'?,In most legal,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,5,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,6,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,10,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,11,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,12,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,14,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,15,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,16,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,18,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,19,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,20,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,21,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,22,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,23,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,24,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,25,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,26,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,27,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,29,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,31,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,32,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,33,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,34,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,35,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,36,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,37,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,38,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,39,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,40,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,41,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,42,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,43,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,44,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,45,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,47,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,48,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,49,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,50,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,52,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,53,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,55,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,57,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,58,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,59,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,60,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,61,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,62,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,63,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,64,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,65,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,66,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,67,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,69,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,70,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,71,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,72,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,74,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,75,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,76,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,77,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,78,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,80,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,81,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,82,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,84,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,85,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,86,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,87,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,88,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,89,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,90,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,91,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,94,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,96,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,97,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20241022,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,1,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,3,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,4,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,5,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,6,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,7,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,10,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,11,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,12,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,15,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,18,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,19,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,20,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,21,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,22,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,23,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,24,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,26,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,30,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,32,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,33,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,34,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,36,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,37,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,38,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,39,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,40,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,41,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,42,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,43,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,44,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,45,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,47,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,48,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,49,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,55,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,57,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,58,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,60,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,61,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,62,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,63,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,64,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,65,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,67,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,69,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,70,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,71,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,72,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,73,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,74,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,75,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,76,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,77,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,78,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,79,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,81,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,82,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,84,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,85,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,86,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,89,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,90,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,94,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,96,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,97,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-20240620,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,0,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,1,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,3,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,4,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,5,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,6,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,8,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,10,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,11,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,12,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,13,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,14,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,15,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,18,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,19,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,20,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,21,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,22,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,23,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,24,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,25,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,26,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,28,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,29,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,30,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,32,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,33,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,34,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,36,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,37,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,38,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,39,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,40,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,41,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,42,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,43,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,44,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,45,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,46,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,47,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,48,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,49,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,55,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,56,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,57,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,58,Are 'roller skates' a 'vehicle'?,"Yes, roller",Yes,0.7
+anthropic,claude-3-5-sonnet-latest,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,60,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,61,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,62,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,63,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,64,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,65,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,67,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,68,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,69,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,70,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,71,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,72,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,74,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,75,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,76,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,77,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,78,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,81,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,82,Are 'roller skates' a 'vehicle'?,Roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,84,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,85,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,86,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,88,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,89,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,90,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,92,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,93,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,94,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,96,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,97,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,98,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-5-sonnet-latest,99,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,1,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,3,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,4,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,5,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,6,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,7,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,8,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,10,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,11,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,12,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,15,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,17,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,18,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,19,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,20,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,21,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,22,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,23,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,24,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,26,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,32,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,33,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,34,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,35,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,36,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,37,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,38,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,39,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,40,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,41,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,42,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,43,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,44,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,45,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,46,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,47,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,48,Are 'roller skates' a 'vehicle'?,It depends on,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,49,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,54,Are 'roller skates' a 'vehicle'?,In most legal,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,55,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,57,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,58,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,59,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,60,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,61,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,62,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,63,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,64,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,65,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,67,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,68,Are 'roller skates' a 'vehicle'?,That depends on,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,69,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,70,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,71,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,72,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,74,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,75,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,76,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,77,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,78,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,79,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,81,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,82,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,83,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,84,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,85,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,86,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,89,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,90,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,93,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,94,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,96,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,97,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-20241022,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,0,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,1,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,2,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,3,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,4,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,5,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,6,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,7,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,8,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,9,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,10,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,11,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,12,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,13,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,14,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,15,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,16,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,17,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,18,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,19,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,20,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,21,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,22,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,23,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,24,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,25,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,26,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,27,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,28,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,29,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,31,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,32,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,33,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,34,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,35,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,36,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,37,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,38,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,39,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,40,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,41,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,42,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,43,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,44,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,45,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,46,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,47,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,48,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,49,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,50,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,51,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,52,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,53,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,54,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,55,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,56,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,57,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,58,Are 'roller skates' a 'vehicle'?,In most legal,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,59,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,60,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,61,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,62,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,63,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,64,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,65,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,66,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,67,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,68,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,69,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,70,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,71,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,72,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,73,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,74,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,75,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,76,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,77,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,78,Are 'roller skates' a 'vehicle'?,"Technically,",Unknown,0.7
+anthropic,claude-3-5-haiku-latest,79,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,80,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,81,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,82,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,83,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,84,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,85,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,86,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,87,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,89,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,90,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,91,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,92,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,93,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,94,Are 'roller skates' a 'vehicle'?,That's an,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,95,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,96,Are 'roller skates' a 'vehicle'?,This is a,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,97,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,98,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-5-haiku-latest,99,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,0,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,1,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,2,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,3,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,4,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,5,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,6,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,7,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,8,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,9,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,10,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,11,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,12,Are 'roller skates' a 'vehicle'?,"Whether ""roller",Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,13,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,14,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,15,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,16,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,17,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,18,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,19,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,20,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,21,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,22,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,23,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,24,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,25,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,26,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,27,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,28,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,29,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,30,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,31,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,32,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,33,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,34,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,35,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,36,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,37,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,38,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,39,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,40,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,41,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,42,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,43,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,44,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,45,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,46,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,47,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,48,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,49,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,50,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,51,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,52,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,53,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,54,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,55,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,56,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,57,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,58,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,59,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,60,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,61,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,62,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,63,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,64,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,65,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,66,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,67,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,68,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,69,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,70,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,71,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,72,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,73,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,74,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,75,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,76,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,77,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,78,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,79,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,80,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,81,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,82,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,83,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,84,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,85,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,86,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,87,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,88,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,89,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,90,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,91,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,92,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,93,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,94,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,95,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,96,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,97,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,98,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-20250219,99,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,0,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,1,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,2,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,3,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,4,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,5,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,6,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,7,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,8,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,9,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,10,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,11,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,12,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,13,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,14,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,15,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,16,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,17,Are 'roller skates' a 'vehicle'?,A roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,18,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,19,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,20,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,21,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,22,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,23,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,24,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,25,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,26,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,27,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,28,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,29,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,30,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,31,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,32,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,33,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,34,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,35,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,36,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,37,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,38,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,39,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,40,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,41,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,42,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,43,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,44,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,45,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,46,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,47,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,48,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,49,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,50,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,51,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,52,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,53,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,54,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,55,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,56,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,57,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,58,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,59,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,60,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,61,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,62,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,63,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,64,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,65,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,66,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,67,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,68,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,69,Are 'roller skates' a 'vehicle'?,In common usage,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,70,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,71,Are 'roller skates' a 'vehicle'?,In a general,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,72,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,73,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,74,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,75,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,76,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,77,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,78,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,79,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,80,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,81,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,82,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,83,Are 'roller skates' a 'vehicle'?,The categorization,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,84,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,85,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,86,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,87,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,88,Are 'roller skates' a 'vehicle'?,The classification of,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,89,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,90,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,91,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,92,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,93,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,94,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,95,Are 'roller skates' a 'vehicle'?,In a broa,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,96,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,97,Are 'roller skates' a 'vehicle'?,While roller sk,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,98,Are 'roller skates' a 'vehicle'?,The categorization,Unknown,0.7
+anthropic,claude-3-7-sonnet-latest,99,Are 'roller skates' a 'vehicle'?,Whether roller sk,Unknown,0.7

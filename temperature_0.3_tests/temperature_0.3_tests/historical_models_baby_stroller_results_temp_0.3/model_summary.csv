@@ -1,0 +1,17 @@
+provider,model,n_trials,n_yes,percent_yes,std_dev
+anthropic,claude-3-5-haiku-20241022,100,53,53.0,0.502
+anthropic,claude-3-5-haiku-latest,100,58,58.0,0.496
+anthropic,claude-3-5-sonnet-20240620,100,0,0.0,0.0
+anthropic,claude-3-5-sonnet-20241022,100,100,100.0,0.0
+anthropic,claude-3-5-sonnet-latest,100,100,100.0,0.0
+anthropic,claude-3-7-sonnet-20250219,100,98,98.0,0.141
+anthropic,claude-3-7-sonnet-latest,100,91,91.0,0.288
+openai,gpt-3.5-turbo-0125,100,0,0.0,0.0
+openai,gpt-3.5-turbo-1106,100,98,98.0,0.141
+openai,gpt-3.5-turbo-instruct,100,0,0.0,0.0
+openai,gpt-4-0125-preview,100,0,0.0,0.0
+openai,gpt-4-0613,100,0,0.0,0.0
+openai,gpt-4-turbo-2024-04-09,100,97,97.0,0.171
+openai,gpt-4o-2024-05-13,100,3,3.0,0.171
+openai,gpt-4o-2024-08-06,100,97,97.0,0.171
+openai,gpt-4o-2024-11-20,100,100,100.0,0.0

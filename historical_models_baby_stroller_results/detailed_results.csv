@@ -1,0 +1,1801 @@
+timestamp,provider,model,question,raw_response,extracted_answer,is_yes,trial_idx,temperature
+2025-08-30T07:01:04.766542+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,0,0.0
+2025-08-30T07:01:05.672557+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,1,0.0
+2025-08-30T07:01:06.362477+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,2,0.0
+2025-08-30T07:01:07.400329+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,3,0.0
+2025-08-30T07:01:08.065742+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,4,0.0
+2025-08-30T07:01:08.613873+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,5,0.0
+2025-08-30T07:01:09.114467+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,6,0.0
+2025-08-30T07:01:09.669400+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,7,0.0
+2025-08-30T07:01:10.285660+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,8,0.0
+2025-08-30T07:01:10.994484+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,9,0.0
+2025-08-30T07:01:11.644246+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,10,0.0
+2025-08-30T07:01:12.225490+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,11,0.0
+2025-08-30T07:01:12.787902+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,12,0.0
+2025-08-30T07:01:13.968172+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,13,0.0
+2025-08-30T07:01:14.410439+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,14,0.0
+2025-08-30T07:01:15.408915+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,15,0.0
+2025-08-30T07:01:15.811501+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,16,0.0
+2025-08-30T07:01:17.243782+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,17,0.0
+2025-08-30T07:01:17.753445+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,18,0.0
+2025-08-30T07:01:18.884963+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,19,0.0
+2025-08-30T07:01:19.393214+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,20,0.0
+2025-08-30T07:01:20.008735+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,21,0.0
+2025-08-30T07:01:20.529252+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,22,0.0
+2025-08-30T07:01:21.339471+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,23,0.0
+2025-08-30T07:01:21.715627+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,24,0.0
+2025-08-30T07:01:22.201859+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,25,0.0
+2025-08-30T07:01:22.876079+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,26,0.0
+2025-08-30T07:01:23.489282+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,27,0.0
+2025-08-30T07:01:24.105591+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,28,0.0
+2025-08-30T07:01:24.719321+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,29,0.0
+2025-08-30T07:01:25.845633+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,30,0.0
+2025-08-30T07:01:26.608555+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,31,0.0
+2025-08-30T07:01:27.075725+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,32,0.0
+2025-08-30T07:01:27.587246+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,33,0.0
+2025-08-30T07:01:28.407152+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,34,0.0
+2025-08-30T07:01:29.433883+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,35,0.0
+2025-08-30T07:01:30.312605+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,36,0.0
+2025-08-30T07:01:31.081458+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,37,0.0
+2025-08-30T07:01:31.678290+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,38,0.0
+2025-08-30T07:01:32.236229+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,39,0.0
+2025-08-30T07:01:33.464795+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,40,0.0
+2025-08-30T07:01:33.961569+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,41,0.0
+2025-08-30T07:01:34.723635+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,42,0.0
+2025-08-30T07:01:35.838655+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,43,0.0
+2025-08-30T07:01:36.395474+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,44,0.0
+2025-08-30T07:01:36.826293+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,45,0.0
+2025-08-30T07:01:37.723494+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,46,0.0
+2025-08-30T07:01:38.710246+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,47,0.0
+2025-08-30T07:01:39.157893+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,48,0.0
+2025-08-30T07:01:39.641644+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,49,0.0
+2025-08-30T07:01:40.063845+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,50,0.0
+2025-08-30T07:01:41.154329+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,51,0.0
+2025-08-30T07:01:41.539624+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,52,0.0
+2025-08-30T07:01:42.231404+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,53,0.0
+2025-08-30T07:01:42.842324+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,54,0.0
+2025-08-30T07:01:43.558726+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,55,0.0
+2025-08-30T07:01:44.174547+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,56,0.0
+2025-08-30T07:01:44.638650+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,57,0.0
+2025-08-30T07:01:45.301107+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,58,0.0
+2025-08-30T07:01:46.124119+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,59,0.0
+2025-08-30T07:01:46.604686+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,60,0.0
+2025-08-30T07:01:47.231834+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,61,0.0
+2025-08-30T07:01:47.895016+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,62,0.0
+2025-08-30T07:01:48.572943+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,63,0.0
+2025-08-30T07:01:49.095171+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,64,0.0
+2025-08-30T07:01:49.703668+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,65,0.0
+2025-08-30T07:01:50.221274+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,66,0.0
+2025-08-30T07:01:50.769405+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,67,0.0
+2025-08-30T07:01:51.246357+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,68,0.0
+2025-08-30T07:01:52.295870+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,69,0.0
+2025-08-30T07:01:53.287894+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,70,0.0
+2025-08-30T07:01:53.872908+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,71,0.0
+2025-08-30T07:01:54.292400+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,72,0.0
+2025-08-30T07:01:55.253778+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,73,0.0
+2025-08-30T07:01:56.361917+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,74,0.0
+2025-08-30T07:01:56.877530+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,75,0.0
+2025-08-30T07:01:57.390995+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,76,0.0
+2025-08-30T07:01:57.999778+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,77,0.0
+2025-08-30T07:01:59.125904+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,78,0.0
+2025-08-30T07:01:59.944411+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,79,0.0
+2025-08-30T07:02:00.464051+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,80,0.0
+2025-08-30T07:02:01.069972+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,81,0.0
+2025-08-30T07:02:01.495576+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,82,0.0
+2025-08-30T07:02:02.132365+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,83,0.0
+2025-08-30T07:02:02.927732+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,84,0.0
+2025-08-30T07:02:03.502960+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,85,0.0
+2025-08-30T07:02:04.145438+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,86,0.0
+2025-08-30T07:02:04.570207+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,87,0.0
+2025-08-30T07:02:05.068805+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,88,0.0
+2025-08-30T07:02:05.680488+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,89,0.0
+2025-08-30T07:02:06.259085+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,90,0.0
+2025-08-30T07:02:06.731964+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,91,0.0
+2025-08-30T07:02:07.293473+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,92,0.0
+2025-08-30T07:02:08.489570+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,93,0.0
+2025-08-30T07:02:09.062294+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,94,0.0
+2025-08-30T07:02:09.776388+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,95,0.0
+2025-08-30T07:02:10.493836+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,96,0.0
+2025-08-30T07:02:11.347907+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,97,0.0
+2025-08-30T07:02:11.863384+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,98,0.0
+2025-08-30T07:02:12.968763+00:00,openai,gpt-3.5-turbo-0125,Is a 'baby stroller' a 'vehicle'?,No,No,0,99,0.0
+2025-08-30T07:02:13.567434+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:02:14.230138+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:02:15.830954+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:02:16.944808+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:02:18.583792+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:02:19.708932+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:02:20.322532+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:02:21.060194+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:02:21.655013+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:02:22.196447+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:02:23.192484+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:02:23.558276+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,11,0.0
+2025-08-30T07:02:24.628226+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:02:26.137549+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:02:27.103933+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:02:28.081174+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:02:28.721642+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:02:30.463505+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,17,0.0
+2025-08-30T07:02:31.280597+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,18,0.0
+2025-08-30T07:02:31.761386+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,19,0.0
+2025-08-30T07:02:32.231947+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:02:33.197356+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:02:33.679375+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:02:34.258278+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,23,0.0
+2025-08-30T07:02:35.991744+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:02:36.472433+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:02:38.475503+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:02:39.504362+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:02:40.582765+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:02:41.096725+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:02:41.663567+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:02:42.644324+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:02:43.153047+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:02:43.791749+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,33,0.0
+2025-08-30T07:02:44.697870+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:02:45.208008+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:02:45.659619+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:02:46.185520+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:02:46.614615+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:02:47.201679+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,39,0.0
+2025-08-30T07:02:47.973040+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,40,0.0
+2025-08-30T07:02:48.998892+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:02:49.521640+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:02:50.553504+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,43,0.0
+2025-08-30T07:02:50.878421+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:02:51.504500+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:02:52.483107+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:02:53.128356+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:02:53.630701+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:02:54.590677+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:02:54.965413+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,50,0.0
+2025-08-30T07:02:56.575075+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,51,0.0
+2025-08-30T07:02:57.291154+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:02:58.442386+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:02:59.545640+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:03:01.090424+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,55,0.0
+2025-08-30T07:03:01.576408+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:03:03.129532+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,57,0.0
+2025-08-30T07:03:04.256848+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:03:05.389215+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,59,0.0
+2025-08-30T07:03:05.895219+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:03:06.408291+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:03:08.050826+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:03:09.059269+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:03:09.447231+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,64,0.0
+2025-08-30T07:03:10.501730+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:03:10.992424+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:03:11.730677+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:03:12.242392+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:03:12.667308+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,69,0.0
+2025-08-30T07:03:14.290377+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:03:14.803364+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,71,0.0
+2025-08-30T07:03:15.415971+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:03:16.382550+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:03:17.055671+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:03:17.601885+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:03:19.309545+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:03:20.025048+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:03:20.858681+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:03:21.458769+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:03:21.899707+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,80,0.0
+2025-08-30T07:03:22.993466+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,81,0.0
+2025-08-30T07:03:24.035296+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:03:25.041907+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,83,0.0
+2025-08-30T07:03:25.588925+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,84,0.0
+2025-08-30T07:03:26.082605+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:03:27.193319+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:03:27.669140+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,87,0.0
+2025-08-30T07:03:28.424856+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:03:28.935078+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,89,0.0
+2025-08-30T07:03:29.557462+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:03:30.472949+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,91,0.0
+2025-08-30T07:03:31.085420+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,92,0.0
+2025-08-30T07:03:32.648970+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:03:33.647969+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:03:34.359479+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:03:35.795206+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,96,0.0
+2025-08-30T07:03:36.919794+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,97,0.0
+2025-08-30T07:03:37.443178+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:03:38.150591+00:00,openai,gpt-3.5-turbo-1106,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,99,0.0
+2025-08-30T07:03:39.497269+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,0,0.0
+2025-08-30T07:03:41.017498+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,1,0.0
+2025-08-30T07:03:42.349830+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,2,0.0
+2025-08-30T07:03:43.372226+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,3,0.0
+2025-08-30T07:03:44.784971+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,4,0.0
+2025-08-30T07:03:46.241263+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,5,0.0
+2025-08-30T07:03:47.265511+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,6,0.0
+2025-08-30T07:03:48.735377+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,7,0.0
+2025-08-30T07:03:50.046323+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,8,0.0
+2025-08-30T07:03:50.718197+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,9,0.0
+2025-08-30T07:03:51.565774+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,10,0.0
+2025-08-30T07:03:53.100848+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,11,0.0
+2025-08-30T07:03:53.612774+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,12,0.0
+2025-08-30T07:03:56.481985+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,13,0.0
+2025-08-30T07:03:57.200382+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,14,0.0
+2025-08-30T07:03:58.273879+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,15,0.0
+2025-08-30T07:03:58.834726+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,16,0.0
+2025-08-30T07:03:59.757400+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,17,0.0
+2025-08-30T07:04:00.373487+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,18,0.0
+2025-08-30T07:04:01.702932+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,19,0.0
+2025-08-30T07:04:02.531284+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,20,0.0
+2025-08-30T07:04:03.514908+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,21,0.0
+2025-08-30T07:04:03.894045+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,22,0.0
+2025-08-30T07:04:04.979923+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,23,0.0
+2025-08-30T07:04:06.004835+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,24,0.0
+2025-08-30T07:04:06.785641+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,25,0.0
+2025-08-30T07:04:07.232720+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,26,0.0
+2025-08-30T07:04:08.461179+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,27,0.0
+2025-08-30T07:04:09.107372+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,28,0.0
+2025-08-30T07:04:09.588210+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,29,0.0
+2025-08-30T07:04:10.510269+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,30,0.0
+2025-08-30T07:04:11.327092+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,31,0.0
+2025-08-30T07:04:12.089962+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,32,0.0
+2025-08-30T07:04:12.481159+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,33,0.0
+2025-08-30T07:04:13.069623+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,34,0.0
+2025-08-30T07:04:13.889223+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,35,0.0
+2025-08-30T07:04:14.709056+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,36,0.0
+2025-08-30T07:04:15.478901+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,37,0.0
+2025-08-30T07:04:16.466431+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,38,0.0
+2025-08-30T07:04:17.267346+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,39,0.0
+2025-08-30T07:04:17.985601+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,40,0.0
+2025-08-30T07:04:19.009837+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,41,0.0
+2025-08-30T07:04:19.930897+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,42,0.0
+2025-08-30T07:04:20.767374+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,43,0.0
+2025-08-30T07:04:21.671918+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,44,0.0
+2025-08-30T07:04:22.492042+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,45,0.0
+2025-08-30T07:04:23.106034+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,46,0.0
+2025-08-30T07:04:24.129505+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,47,0.0
+2025-08-30T07:04:24.743659+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,48,0.0
+2025-08-30T07:04:25.871936+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,49,0.0
+2025-08-30T07:04:26.587092+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,50,0.0
+2025-08-30T07:04:27.100127+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,51,0.0
+2025-08-30T07:04:27.901576+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,52,0.0
+2025-08-30T07:04:28.840253+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,53,0.0
+2025-08-30T07:04:29.966967+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,54,0.0
+2025-08-30T07:04:30.991928+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,55,0.0
+2025-08-30T07:04:31.426019+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,56,0.0
+2025-08-30T07:04:32.320857+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,57,0.0
+2025-08-30T07:04:32.834237+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,58,0.0
+2025-08-30T07:04:33.461987+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,59,0.0
+2025-08-30T07:04:34.529590+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,60,0.0
+2025-08-30T07:04:35.365179+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,61,0.0
+2025-08-30T07:04:36.007477+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,62,0.0
+2025-08-30T07:04:36.781261+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,63,0.0
+2025-08-30T07:04:37.851605+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,64,0.0
+2025-08-30T07:04:38.553963+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,65,0.0
+2025-08-30T07:04:38.978274+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,66,0.0
+2025-08-30T07:04:40.211080+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,67,0.0
+2025-08-30T07:04:41.235836+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,68,0.0
+2025-08-30T07:04:42.051623+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,69,0.0
+2025-08-30T07:04:42.869253+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,70,0.0
+2025-08-30T07:04:43.791543+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,71,0.0
+2025-08-30T07:04:44.595644+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,72,0.0
+2025-08-30T07:04:45.430001+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,73,0.0
+2025-08-30T07:04:46.249221+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,74,0.0
+2025-08-30T07:04:46.657818+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,75,0.0
+2025-08-30T07:04:47.466888+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,76,0.0
+2025-08-30T07:04:47.990832+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,77,0.0
+2025-08-30T07:04:48.706455+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,78,0.0
+2025-08-30T07:04:49.422250+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,79,0.0
+2025-08-30T07:04:50.243930+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,80,0.0
+2025-08-30T07:04:50.610869+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,81,0.0
+2025-08-30T07:04:51.675929+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,82,0.0
+2025-08-30T07:04:52.458711+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,83,0.0
+2025-08-30T07:04:53.518932+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,84,0.0
+2025-08-30T07:04:54.953408+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,85,0.0
+2025-08-30T07:04:55.669713+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,86,0.0
+2025-08-30T07:04:56.284596+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,87,0.0
+2025-08-30T07:04:57.410166+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,88,0.0
+2025-08-30T07:04:58.229390+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,89,0.0
+2025-08-30T07:04:59.048827+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,90,0.0
+2025-08-30T07:05:00.175069+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,91,0.0
+2025-08-30T07:05:01.096910+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,92,0.0
+2025-08-30T07:05:01.546372+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,93,0.0
+2025-08-30T07:05:02.224317+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,94,0.0
+2025-08-30T07:05:02.634216+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,95,0.0
+2025-08-30T07:05:03.421970+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,96,0.0
+2025-08-30T07:05:04.268811+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,97,0.0
+2025-08-30T07:05:05.192881+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,98,0.0
+2025-08-30T07:05:06.217448+00:00,openai,gpt-3.5-turbo-instruct,Is a 'baby stroller' a 'vehicle'?,"
+
+No",No,0,99,0.0
+2025-08-30T07:05:07.444985+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:05:08.163804+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:05:08.793836+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:05:09.723912+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:05:10.917718+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:05:11.734178+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:05:12.521940+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:05:13.589082+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:05:14.307877+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:05:14.921910+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:05:15.620923+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:05:16.965858+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,11,0.0
+2025-08-30T07:05:17.584451+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:05:18.302953+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:05:19.223217+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:05:20.349604+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:05:21.171452+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:05:22.149717+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,17,0.0
+2025-08-30T07:05:22.909568+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,18,0.0
+2025-08-30T07:05:23.522052+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,19,0.0
+2025-08-30T07:05:24.718302+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:05:25.470756+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:05:26.392157+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:05:27.002495+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,23,0.0
+2025-08-30T07:05:28.132158+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:05:29.975741+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:05:30.589947+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:05:31.407761+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:05:32.229172+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:05:33.460431+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:05:34.071745+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:05:34.994441+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:05:36.120801+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:05:38.579464+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,No.,No,0,33,0.0
+2025-08-30T07:05:39.114206+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:05:39.602842+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:05:40.123299+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:05:41.365301+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:05:42.298614+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:05:43.186904+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,39,0.0
+2025-08-30T07:05:44.313161+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,40,0.0
+2025-08-30T07:05:45.029131+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:05:47.796357+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:05:48.715053+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,43,0.0
+2025-08-30T07:05:50.047510+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:05:50.731619+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:05:51.500726+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:05:52.092237+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:05:53.222220+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:05:54.143384+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:05:55.283342+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,50,0.0
+2025-08-30T07:05:56.191366+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,51,0.0
+2025-08-30T07:05:57.011524+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:05:58.239979+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:05:58.956369+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:06:00.115752+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,55,0.0
+2025-08-30T07:06:01.414096+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:06:02.129530+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,57,0.0
+2025-08-30T07:06:02.745418+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:06:03.461561+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,59,0.0
+2025-08-30T07:06:04.280128+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:06:05.274278+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:06:05.921067+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:06:07.423174+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:06:08.171012+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,64,0.0
+2025-08-30T07:06:09.196468+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:06:09.810687+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:06:10.632321+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:06:11.797337+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:06:12.576311+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,69,0.0
+2025-08-30T07:06:13.703543+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:06:14.419102+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,71,0.0
+2025-08-30T07:06:15.034278+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:06:15.646638+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:06:16.785567+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:06:18.107123+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:06:19.231774+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:06:19.846337+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:06:20.563146+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:06:21.211809+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:06:21.895232+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,80,0.0
+2025-08-30T07:06:22.508863+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,81,0.0
+2025-08-30T07:06:23.123542+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:06:24.346962+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,83,0.0
+2025-08-30T07:06:25.172202+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,84,0.0
+2025-08-30T07:06:26.197671+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:06:26.810130+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:06:27.425036+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,87,0.0
+2025-08-30T07:06:28.141841+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:06:28.856356+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,89,0.0
+2025-08-30T07:06:29.574633+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:06:30.655498+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,91,0.0
+2025-08-30T07:06:31.517351+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,92,0.0
+2025-08-30T07:06:32.749715+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:06:34.080846+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:06:35.318106+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:06:36.047465+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,96,0.0
+2025-08-30T07:06:36.641085+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,97,0.0
+2025-08-30T07:06:37.255692+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:06:37.870373+00:00,openai,gpt-4-turbo-2024-04-09,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,99,0.0
+2025-08-30T07:06:38.793046+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,0,0.0
+2025-08-30T07:06:39.917643+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,1,0.0
+2025-08-30T07:06:41.249792+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,2,0.0
+2025-08-30T07:06:41.840038+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,3,0.0
+2025-08-30T07:06:42.681887+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,4,0.0
+2025-08-30T07:06:43.707284+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,5,0.0
+2025-08-30T07:06:44.936212+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,6,0.0
+2025-08-30T07:06:45.653259+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,7,0.0
+2025-08-30T07:06:46.368590+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,8,0.0
+2025-08-30T07:06:47.499431+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,9,0.0
+2025-08-30T07:06:48.315345+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,10,0.0
+2025-08-30T07:06:48.926372+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,11,0.0
+2025-08-30T07:06:49.646370+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No,No,0,12,0.0
+2025-08-30T07:06:50.568761+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,13,0.0
+2025-08-30T07:06:51.283683+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,14,0.0
+2025-08-30T07:06:52.102655+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,15,0.0
+2025-08-30T07:06:52.923377+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,16,0.0
+2025-08-30T07:06:53.536767+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,17,0.0
+2025-08-30T07:06:54.457563+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,18,0.0
+2025-08-30T07:06:55.363488+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,19,0.0
+2025-08-30T07:06:56.199942+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,20,0.0
+2025-08-30T07:06:57.016313+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,21,0.0
+2025-08-30T07:06:57.632994+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,22,0.0
+2025-08-30T07:06:58.249441+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,23,0.0
+2025-08-30T07:06:59.073719+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,24,0.0
+2025-08-30T07:07:00.298047+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No,No,0,25,0.0
+2025-08-30T07:07:01.013069+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,26,0.0
+2025-08-30T07:07:01.832328+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,27,0.0
+2025-08-30T07:07:02.446580+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,28,0.0
+2025-08-30T07:07:03.369054+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No,No,0,29,0.0
+2025-08-30T07:07:04.290765+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,30,0.0
+2025-08-30T07:07:05.006395+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,31,0.0
+2025-08-30T07:07:05.826320+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,32,0.0
+2025-08-30T07:07:06.542763+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,33,0.0
+2025-08-30T07:07:07.261276+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,34,0.0
+2025-08-30T07:07:08.079786+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,35,0.0
+2025-08-30T07:07:08.899071+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,36,0.0
+2025-08-30T07:07:09.805184+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,37,0.0
+2025-08-30T07:07:10.435542+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,38,0.0
+2025-08-30T07:07:11.108425+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,39,0.0
+2025-08-30T07:07:12.277959+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,40,0.0
+2025-08-30T07:07:13.095488+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,41,0.0
+2025-08-30T07:07:13.778349+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,42,0.0
+2025-08-30T07:07:14.734523+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No,No,0,43,0.0
+2025-08-30T07:07:15.451544+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,44,0.0
+2025-08-30T07:07:16.271525+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,45,0.0
+2025-08-30T07:07:16.987895+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,46,0.0
+2025-08-30T07:07:17.911866+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,47,0.0
+2025-08-30T07:07:19.035307+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,48,0.0
+2025-08-30T07:07:19.645013+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,49,0.0
+2025-08-30T07:07:20.367019+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,50,0.0
+2025-08-30T07:07:21.188175+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,51,0.0
+2025-08-30T07:07:21.871515+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,52,0.0
+2025-08-30T07:07:22.620413+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,53,0.0
+2025-08-30T07:07:23.645547+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,54,0.0
+2025-08-30T07:07:24.259072+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,55,0.0
+2025-08-30T07:07:24.870023+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,56,0.0
+2025-08-30T07:07:25.795458+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,57,0.0
+2025-08-30T07:07:28.457403+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,58,0.0
+2025-08-30T07:07:29.686083+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,59,0.0
+2025-08-30T07:07:30.607757+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,60,0.0
+2025-08-30T07:07:31.224458+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,61,0.0
+2025-08-30T07:07:32.038915+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,62,0.0
+2025-08-30T07:07:32.962971+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,63,0.0
+2025-08-30T07:07:33.778569+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,64,0.0
+2025-08-30T07:07:34.398463+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,65,0.0
+2025-08-30T07:07:35.216391+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,66,0.0
+2025-08-30T07:07:36.138618+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,67,0.0
+2025-08-30T07:07:36.956948+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,68,0.0
+2025-08-30T07:07:37.571737+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,69,0.0
+2025-08-30T07:07:38.185590+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,70,0.0
+2025-08-30T07:07:38.802066+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,71,0.0
+2025-08-30T07:07:39.910416+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,72,0.0
+2025-08-30T07:07:41.054391+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,73,0.0
+2025-08-30T07:07:42.086627+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,74,0.0
+2025-08-30T07:07:42.797584+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,75,0.0
+2025-08-30T07:07:44.022923+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,76,0.0
+2025-08-30T07:07:44.641151+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,77,0.0
+2025-08-30T07:07:45.764645+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No,No,0,78,0.0
+2025-08-30T07:07:46.686449+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,79,0.0
+2025-08-30T07:07:47.585803+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,80,0.0
+2025-08-30T07:07:48.222328+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,81,0.0
+2025-08-30T07:07:49.347942+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,82,0.0
+2025-08-30T07:07:50.483753+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,83,0.0
+2025-08-30T07:07:51.704449+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,84,0.0
+2025-08-30T07:07:52.523163+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,85,0.0
+2025-08-30T07:07:53.649907+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,86,0.0
+2025-08-30T07:07:54.365375+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,87,0.0
+2025-08-30T07:07:54.935407+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,88,0.0
+2025-08-30T07:07:55.696822+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,89,0.0
+2025-08-30T07:07:57.026770+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,90,0.0
+2025-08-30T07:07:58.051996+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,91,0.0
+2025-08-30T07:07:58.562087+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,92,0.0
+2025-08-30T07:07:59.609081+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No,No,0,93,0.0
+2025-08-30T07:08:00.306435+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,94,0.0
+2025-08-30T07:08:01.125751+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,95,0.0
+2025-08-30T07:08:01.841684+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,96,0.0
+2025-08-30T07:08:02.455792+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,97,0.0
+2025-08-30T07:08:03.276350+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,98,0.0
+2025-08-30T07:08:03.993242+00:00,openai,gpt-4-0125-preview,Is a 'baby stroller' a 'vehicle'?,No.,No,0,99,0.0
+2025-08-30T07:08:05.300436+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,0,0.0
+2025-08-30T07:08:05.892155+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,1,0.0
+2025-08-30T07:08:06.512492+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,2,0.0
+2025-08-30T07:08:07.678598+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,3,0.0
+2025-08-30T07:08:08.497377+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,4,0.0
+2025-08-30T07:08:09.113986+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,5,0.0
+2025-08-30T07:08:09.757970+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,6,0.0
+2025-08-30T07:08:10.546911+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,7,0.0
+2025-08-30T07:08:11.850030+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,8,0.0
+2025-08-30T07:08:12.556907+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,9,0.0
+2025-08-30T07:08:13.311870+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,10,0.0
+2025-08-30T07:08:14.027363+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,11,0.0
+2025-08-30T07:08:15.189634+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,12,0.0
+2025-08-30T07:08:15.792197+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,13,0.0
+2025-08-30T07:08:16.430753+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,14,0.0
+2025-08-30T07:08:17.200875+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,15,0.0
+2025-08-30T07:08:18.534129+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,16,0.0
+2025-08-30T07:08:19.046141+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,17,0.0
+2025-08-30T07:08:19.864729+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,18,0.0
+2025-08-30T07:08:20.900927+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,19,0.0
+2025-08-30T07:08:22.322406+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,20,0.0
+2025-08-30T07:08:22.935498+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,21,0.0
+2025-08-30T07:08:23.550939+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,22,0.0
+2025-08-30T07:08:24.264444+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,23,0.0
+2025-08-30T07:08:25.033874+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,24,0.0
+2025-08-30T07:08:26.416736+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,25,0.0
+2025-08-30T07:08:27.032116+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,26,0.0
+2025-08-30T07:08:28.261915+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,27,0.0
+2025-08-30T07:08:29.489013+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,28,0.0
+2025-08-30T07:08:30.719629+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,29,0.0
+2025-08-30T07:08:31.441235+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,30,0.0
+2025-08-30T07:08:32.255431+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,31,0.0
+2025-08-30T07:08:33.074818+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,32,0.0
+2025-08-30T07:08:33.621156+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,33,0.0
+2025-08-30T07:08:34.298880+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,34,0.0
+2025-08-30T07:08:35.633482+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,35,0.0
+2025-08-30T07:08:36.557849+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,36,0.0
+2025-08-30T07:08:37.887571+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,37,0.0
+2025-08-30T07:08:38.912393+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,38,0.0
+2025-08-30T07:08:39.731353+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,39,0.0
+2025-08-30T07:08:41.368952+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,40,0.0
+2025-08-30T07:08:42.087146+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,41,0.0
+2025-08-30T07:08:42.769922+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,42,0.0
+2025-08-30T07:08:43.932699+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,43,0.0
+2025-08-30T07:08:45.699051+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,44,0.0
+2025-08-30T07:08:46.490870+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,45,0.0
+2025-08-30T07:08:47.101129+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,46,0.0
+2025-08-30T07:08:47.923001+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,47,0.0
+2025-08-30T07:08:48.742799+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,48,0.0
+2025-08-30T07:08:49.561565+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,49,0.0
+2025-08-30T07:08:50.576290+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,50,0.0
+2025-08-30T07:08:51.304628+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,51,0.0
+2025-08-30T07:08:52.019962+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,52,0.0
+2025-08-30T07:08:52.840563+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,53,0.0
+2025-08-30T07:08:54.068159+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,54,0.0
+2025-08-30T07:08:54.784411+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,55,0.0
+2025-08-30T07:08:55.406064+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,56,0.0
+2025-08-30T07:08:56.730496+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,57,0.0
+2025-08-30T07:08:57.448213+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,58,0.0
+2025-08-30T07:08:58.778212+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,59,0.0
+2025-08-30T07:08:59.495408+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,60,0.0
+2025-08-30T07:09:00.622057+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,61,0.0
+2025-08-30T07:09:01.341239+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,62,0.0
+2025-08-30T07:09:02.669510+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,63,0.0
+2025-08-30T07:09:03.472132+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,64,0.0
+2025-08-30T07:09:04.207454+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,65,0.0
+2025-08-30T07:09:04.922656+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,66,0.0
+2025-08-30T07:09:06.152604+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,67,0.0
+2025-08-30T07:09:06.870118+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,68,0.0
+2025-08-30T07:09:07.484518+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,69,0.0
+2025-08-30T07:09:08.421115+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,70,0.0
+2025-08-30T07:09:09.636049+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,71,0.0
+2025-08-30T07:09:10.661626+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,72,0.0
+2025-08-30T07:09:11.255757+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,73,0.0
+2025-08-30T07:09:11.885785+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,74,0.0
+2025-08-30T07:09:12.485945+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,75,0.0
+2025-08-30T07:09:13.218561+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,76,0.0
+2025-08-30T07:09:14.009341+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,77,0.0
+2025-08-30T07:09:14.755097+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,78,0.0
+2025-08-30T07:09:15.345858+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,79,0.0
+2025-08-30T07:09:16.622941+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,80,0.0
+2025-08-30T07:09:17.312761+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,81,0.0
+2025-08-30T07:09:18.439547+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,82,0.0
+2025-08-30T07:09:19.158155+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,83,0.0
+2025-08-30T07:09:19.976178+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,84,0.0
+2025-08-30T07:09:20.587228+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,85,0.0
+2025-08-30T07:09:21.205933+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,86,0.0
+2025-08-30T07:09:21.883382+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,87,0.0
+2025-08-30T07:09:22.514184+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,88,0.0
+2025-08-30T07:09:23.150972+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,89,0.0
+2025-08-30T07:09:23.969868+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,90,0.0
+2025-08-30T07:09:24.585013+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,91,0.0
+2025-08-30T07:09:25.917232+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,92,0.0
+2025-08-30T07:09:27.244960+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,93,0.0
+2025-08-30T07:09:28.426160+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,94,0.0
+2025-08-30T07:09:29.193677+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,95,0.0
+2025-08-30T07:09:30.831461+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,96,0.0
+2025-08-30T07:09:32.609838+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,97,0.0
+2025-08-30T07:09:33.290592+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,98,0.0
+2025-08-30T07:09:34.723957+00:00,openai,gpt-4-0613,Is a 'baby stroller' a 'vehicle'?,No,No,0,99,0.0
+2025-08-30T07:09:35.135186+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:09:35.746369+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:09:36.875087+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:09:37.280744+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:09:37.793840+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:09:38.405366+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:09:38.774012+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:09:39.331240+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:09:40.252399+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:09:40.867350+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:09:41.442087+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:09:42.030065+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,11,0.0
+2025-08-30T07:09:42.710994+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:09:43.386492+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:09:44.043825+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:09:44.550392+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:09:45.270644+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:09:45.920148+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,17,0.0
+2025-08-30T07:09:46.498537+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,18,0.0
+2025-08-30T07:09:47.212330+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,19,0.0
+2025-08-30T07:09:47.726844+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:09:48.751156+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:09:50.743533+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:09:51.823649+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,23,0.0
+2025-08-30T07:09:52.334880+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:09:53.052190+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:09:53.769400+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:09:54.798025+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:09:55.292960+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:09:56.330055+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:09:56.843418+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:09:57.453212+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:09:57.968276+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:09:58.684330+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,33,0.0
+2025-08-30T07:09:59.301604+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:09:59.914201+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:10:00.322643+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:10:00.936955+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:10:01.425215+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:10:02.064403+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,39,0.0
+2025-08-30T07:10:02.784728+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,40,0.0
+2025-08-30T07:10:03.395938+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:10:03.908476+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:10:04.316671+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,43,0.0
+2025-08-30T07:10:04.933536+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:10:05.648469+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:10:06.160522+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:10:06.772854+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:10:07.389654+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:10:07.900846+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:10:08.408342+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,50,0.0
+2025-08-30T07:10:08.928025+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,51,0.0
+2025-08-30T07:10:09.439077+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:10:10.035351+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:10:10.461795+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:10:11.001676+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,55,0.0
+2025-08-30T07:10:11.643466+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:10:12.303188+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,57,0.0
+2025-08-30T07:10:12.919024+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:10:13.534320+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,59,0.0
+2025-08-30T07:10:14.250535+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:10:14.622880+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:10:15.257851+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:10:15.684549+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:10:16.424441+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,64,0.0
+2025-08-30T07:10:16.928105+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:10:17.527863+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:10:18.146052+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:10:18.588011+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:10:19.063817+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,69,0.0
+2025-08-30T07:10:19.677667+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:10:20.188733+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,71,0.0
+2025-08-30T07:10:20.880305+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:10:21.521435+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:10:22.136505+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:10:22.543621+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:10:23.364524+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:10:23.877139+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:10:24.389414+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:10:24.797916+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:10:25.207263+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,80,0.0
+2025-08-30T07:10:25.579254+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,81,0.0
+2025-08-30T07:10:26.132486+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:10:26.846056+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,83,0.0
+2025-08-30T07:10:27.460247+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,84,0.0
+2025-08-30T07:10:27.973765+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:10:28.587969+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:10:29.305049+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,87,0.0
+2025-08-30T07:10:30.020648+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:10:30.636359+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,89,0.0
+2025-08-30T07:10:31.457412+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:10:32.478862+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,91,0.0
+2025-08-30T07:10:33.196567+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,92,0.0
+2025-08-30T07:10:33.525802+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:10:34.221726+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:10:34.728824+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:10:35.141202+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,96,0.0
+2025-08-30T07:10:35.753768+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,97,0.0
+2025-08-30T07:10:36.371204+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:10:37.191337+00:00,openai,gpt-4o-2024-11-20,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,99,0.0
+2025-08-30T07:10:37.907070+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,0,0.0
+2025-08-30T07:10:38.622975+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,1,0.0
+2025-08-30T07:10:39.634399+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,2,0.0
+2025-08-30T07:10:40.772473+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:10:41.796521+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,4,0.0
+2025-08-30T07:10:42.409617+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,5,0.0
+2025-08-30T07:10:43.128058+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,6,0.0
+2025-08-30T07:10:43.846764+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,7,0.0
+2025-08-30T07:10:44.417395+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:10:45.068009+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,9,0.0
+2025-08-30T07:10:45.689541+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:10:46.508299+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,11,0.0
+2025-08-30T07:10:47.122981+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,12,0.0
+2025-08-30T07:10:47.943791+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,13,0.0
+2025-08-30T07:10:48.557704+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,14,0.0
+2025-08-30T07:10:49.273386+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,15,0.0
+2025-08-30T07:10:50.798698+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:10:51.423482+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,17,0.0
+2025-08-30T07:10:52.141736+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,18,0.0
+2025-08-30T07:10:52.775859+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,19,0.0
+2025-08-30T07:10:53.473393+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,20,0.0
+2025-08-30T07:10:54.393802+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,21,0.0
+2025-08-30T07:10:55.620846+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,22,0.0
+2025-08-30T07:10:56.236766+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,23,0.0
+2025-08-30T07:10:56.951999+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,24,0.0
+2025-08-30T07:10:57.771065+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,25,0.0
+2025-08-30T07:10:58.386462+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:10:59.000458+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:10:59.717624+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:11:00.332520+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,29,0.0
+2025-08-30T07:11:00.945963+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:11:01.560412+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:11:02.276128+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:11:04.017738+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,33,0.0
+2025-08-30T07:11:04.633837+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:11:05.349610+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,35,0.0
+2025-08-30T07:11:05.861237+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,36,0.0
+2025-08-30T07:11:06.475593+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,37,0.0
+2025-08-30T07:11:07.311664+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:11:07.908511+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,39,0.0
+2025-08-30T07:11:08.907300+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,40,0.0
+2025-08-30T07:11:09.563004+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,41,0.0
+2025-08-30T07:11:10.879532+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,42,0.0
+2025-08-30T07:11:11.483966+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,43,0.0
+2025-08-30T07:11:12.105533+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,44,0.0
+2025-08-30T07:11:12.820329+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,45,0.0
+2025-08-30T07:11:13.543276+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,46,0.0
+2025-08-30T07:11:14.055002+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:11:14.673902+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:11:15.296423+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,49,0.0
+2025-08-30T07:11:16.101540+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,50,0.0
+2025-08-30T07:11:16.631467+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,51,0.0
+2025-08-30T07:11:17.433741+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,52,0.0
+2025-08-30T07:11:18.149447+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,53,0.0
+2025-08-30T07:11:18.869931+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:11:19.482622+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,55,0.0
+2025-08-30T07:11:20.403959+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,56,0.0
+2025-08-30T07:11:21.046613+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,57,0.0
+2025-08-30T07:11:21.662006+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,58,0.0
+2025-08-30T07:11:22.167099+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,59,0.0
+2025-08-30T07:11:22.657927+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,No,No,0,60,0.0
+2025-08-30T07:11:23.372452+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,61,0.0
+2025-08-30T07:11:24.090370+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,62,0.0
+2025-08-30T07:11:24.703390+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,63,0.0
+2025-08-30T07:11:25.217247+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,64,0.0
+2025-08-30T07:11:26.137879+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,65,0.0
+2025-08-30T07:11:26.958648+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:11:27.549091+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,67,0.0
+2025-08-30T07:11:28.186054+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:11:29.108568+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,69,0.0
+2025-08-30T07:11:29.619433+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,70,0.0
+2025-08-30T07:11:30.255424+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,71,0.0
+2025-08-30T07:11:31.156956+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:11:31.674153+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,73,0.0
+2025-08-30T07:11:32.283325+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,74,0.0
+2025-08-30T07:11:33.409557+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:11:34.022774+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:11:34.740076+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:11:35.338208+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,78,0.0
+2025-08-30T07:11:35.969702+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:11:36.582899+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,80,0.0
+2025-08-30T07:11:37.197901+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,81,0.0
+2025-08-30T07:11:37.897824+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:11:38.632181+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,83,0.0
+2025-08-30T07:11:39.245308+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,84,0.0
+2025-08-30T07:11:39.960318+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,85,0.0
+2025-08-30T07:11:40.579243+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,86,0.0
+2025-08-30T07:11:41.328050+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,87,0.0
+2025-08-30T07:11:42.011413+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,88,0.0
+2025-08-30T07:11:42.832812+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,89,0.0
+2025-08-30T07:11:43.444226+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,90,0.0
+2025-08-30T07:11:44.060982+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,91,0.0
+2025-08-30T07:11:44.602486+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,92,0.0
+2025-08-30T07:11:45.185582+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:11:45.903142+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:11:46.517342+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,95,0.0
+2025-08-30T07:11:47.437408+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,96,0.0
+2025-08-30T07:11:48.053439+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,97,0.0
+2025-08-30T07:11:48.667858+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:11:49.384831+00:00,openai,gpt-4o-2024-08-06,Is a 'baby stroller' a 'vehicle'?,Yes.,Yes,1,99,0.0
+2025-08-30T07:11:49.995952+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,0,0.0
+2025-08-30T07:11:51.124715+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,1,0.0
+2025-08-30T07:11:51.534186+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,2,0.0
+2025-08-30T07:11:52.047158+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,3,0.0
+2025-08-30T07:11:52.559555+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,4,0.0
+2025-08-30T07:11:53.173685+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,5,0.0
+2025-08-30T07:11:53.789068+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,6,0.0
+2025-08-30T07:11:54.301545+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,7,0.0
+2025-08-30T07:11:54.914654+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,8,0.0
+2025-08-30T07:11:55.528766+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,9,0.0
+2025-08-30T07:11:56.454098+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,10,0.0
+2025-08-30T07:11:56.962876+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,11,0.0
+2025-08-30T07:11:57.782609+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,12,0.0
+2025-08-30T07:11:58.425747+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,13,0.0
+2025-08-30T07:11:59.469505+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,14,0.0
+2025-08-30T07:12:00.136073+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,15,0.0
+2025-08-30T07:12:00.650844+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,16,0.0
+2025-08-30T07:12:01.160192+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,17,0.0
+2025-08-30T07:12:01.775820+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,18,0.0
+2025-08-30T07:12:02.388485+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,19,0.0
+2025-08-30T07:12:03.211237+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,20,0.0
+2025-08-30T07:12:04.468113+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,21,0.0
+2025-08-30T07:12:05.566453+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,22,0.0
+2025-08-30T07:12:06.176734+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,23,0.0
+2025-08-30T07:12:06.792350+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,24,0.0
+2025-08-30T07:12:07.203225+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,25,0.0
+2025-08-30T07:12:07.920616+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,26,0.0
+2025-08-30T07:12:08.432506+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,27,0.0
+2025-08-30T07:12:09.047329+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,28,0.0
+2025-08-30T07:12:09.662719+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,29,0.0
+2025-08-30T07:12:10.275665+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,30,0.0
+2025-08-30T07:12:10.787303+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,31,0.0
+2025-08-30T07:12:11.542307+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,32,0.0
+2025-08-30T07:12:12.322586+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,33,0.0
+2025-08-30T07:12:12.945225+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,34,0.0
+2025-08-30T07:12:13.394092+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,35,0.0
+2025-08-30T07:12:13.963048+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,36,0.0
+2025-08-30T07:12:14.780836+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,37,0.0
+2025-08-30T07:12:15.241416+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,38,0.0
+2025-08-30T07:12:15.714441+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,39,0.0
+2025-08-30T07:12:16.213106+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,40,0.0
+2025-08-30T07:12:16.727923+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,41,0.0
+2025-08-30T07:12:17.238852+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,42,0.0
+2025-08-30T07:12:17.853641+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,43,0.0
+2025-08-30T07:12:18.339576+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,44,0.0
+2025-08-30T07:12:18.878803+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,45,0.0
+2025-08-30T07:12:19.390063+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,46,0.0
+2025-08-30T07:12:20.103522+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,47,0.0
+2025-08-30T07:12:20.720669+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,48,0.0
+2025-08-30T07:12:21.337220+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,49,0.0
+2025-08-30T07:12:21.949777+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,50,0.0
+2025-08-30T07:12:22.679503+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,51,0.0
+2025-08-30T07:12:23.283064+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,52,0.0
+2025-08-30T07:12:23.896737+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,53,0.0
+2025-08-30T07:12:24.718753+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,54,0.0
+2025-08-30T07:12:25.329533+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,55,0.0
+2025-08-30T07:12:25.740589+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,56,0.0
+2025-08-30T07:12:26.060763+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,57,0.0
+2025-08-30T07:12:26.486020+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,58,0.0
+2025-08-30T07:12:27.070122+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,59,0.0
+2025-08-30T07:12:27.528477+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,60,0.0
+2025-08-30T07:12:28.093909+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,61,0.0
+2025-08-30T07:12:28.542102+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,62,0.0
+2025-08-30T07:12:29.422866+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,63,0.0
+2025-08-30T07:12:30.023528+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,64,0.0
+2025-08-30T07:12:30.534361+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,65,0.0
+2025-08-30T07:12:31.541256+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,66,0.0
+2025-08-30T07:12:32.087410+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,67,0.0
+2025-08-30T07:12:32.802597+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,68,0.0
+2025-08-30T07:12:33.318013+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,69,0.0
+2025-08-30T07:12:33.829136+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,70,0.0
+2025-08-30T07:12:34.142487+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,71,0.0
+2025-08-30T07:12:34.616471+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,72,0.0
+2025-08-30T07:12:35.200110+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,73,0.0
+2025-08-30T07:12:35.980364+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,74,0.0
+2025-08-30T07:12:36.492434+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,75,0.0
+2025-08-30T07:12:37.104919+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,76,0.0
+2025-08-30T07:12:37.625148+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,77,0.0
+2025-08-30T07:12:38.130190+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,78,0.0
+2025-08-30T07:12:38.943972+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,79,0.0
+2025-08-30T07:12:39.490086+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,80,0.0
+2025-08-30T07:12:40.382520+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,81,0.0
+2025-08-30T07:12:41.919232+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,82,0.0
+2025-08-30T07:12:42.429193+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,83,0.0
+2025-08-30T07:12:42.940979+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,84,0.0
+2025-08-30T07:12:44.069214+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,85,0.0
+2025-08-30T07:12:44.580417+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,86,0.0
+2025-08-30T07:12:45.194264+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,87,0.0
+2025-08-30T07:12:45.810406+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,88,0.0
+2025-08-30T07:12:46.323830+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,89,0.0
+2025-08-30T07:12:47.141895+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,90,0.0
+2025-08-30T07:12:47.756224+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,91,0.0
+2025-08-30T07:12:48.268639+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,92,0.0
+2025-08-30T07:12:48.986237+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,93,0.0
+2025-08-30T07:12:49.497298+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,94,0.0
+2025-08-30T07:12:50.009817+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,95,0.0
+2025-08-30T07:12:50.524183+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,96,0.0
+2025-08-30T07:12:51.010936+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,97,0.0
+2025-08-30T07:12:51.546706+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,98,0.0
+2025-08-30T07:12:51.953841+00:00,openai,gpt-4o-2024-05-13,Is a 'baby stroller' a 'vehicle'?,No,No,0,99,0.0
+2025-08-30T07:12:55.975096+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:12:57.999305+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:13:00.248921+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:13:02.400159+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:13:04.654064+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:13:07.311799+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:13:08.606161+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:13:10.489957+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:13:12.948133+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:13:15.919274+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:13:17.555779+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:13:20.323696+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,11,0.0
+2025-08-30T07:13:21.832247+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:13:23.188825+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:13:24.622470+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:13:25.954022+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:13:26.874991+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:13:27.794112+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,17,0.0
+2025-08-30T07:13:28.820962+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,18,0.0
+2025-08-30T07:13:29.536449+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,19,0.0
+2025-08-30T07:13:30.458735+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:13:31.206437+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:13:31.891630+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:13:32.815426+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,23,0.0
+2025-08-30T07:13:33.736207+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:13:34.964075+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:13:35.988885+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:13:36.808531+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:13:37.624128+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:13:38.547538+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:13:39.368743+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:13:40.187015+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:13:41.007405+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:13:41.720437+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,33,0.0
+2025-08-30T07:13:42.586130+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:13:43.258336+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:13:44.101302+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:13:45.104495+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:13:45.920796+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:13:46.754387+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,39,0.0
+2025-08-30T07:13:47.557123+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,40,0.0
+2025-08-30T07:13:48.379558+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:13:49.197924+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:13:50.020130+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,43,0.0
+2025-08-30T07:13:50.848307+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:13:51.522166+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:13:52.268482+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:13:52.940973+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:13:56.434323+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:13:58.517441+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:14:00.976440+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,50,0.0
+2025-08-30T07:14:02.408259+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,51,0.0
+2025-08-30T07:14:04.457073+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:14:06.506119+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:14:08.250020+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:14:10.090267+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,55,0.0
+2025-08-30T07:14:12.340983+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:14:13.876138+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,57,0.0
+2025-08-30T07:14:15.515939+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:14:17.408545+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,59,0.0
+2025-08-30T07:14:20.330651+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:14:23.402183+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:14:25.234408+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:14:26.473687+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:14:27.807297+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,64,0.0
+2025-08-30T07:14:30.058221+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:14:31.492185+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:14:32.926118+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:14:34.152315+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:14:35.247333+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,69,0.0
+2025-08-30T07:14:36.043128+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:14:37.328709+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,71,0.0
+2025-08-30T07:14:38.763131+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:14:40.631416+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:14:41.733798+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:14:42.488621+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:14:43.475594+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:14:44.397640+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:14:45.524016+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:14:46.647732+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:14:47.669324+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,80,0.0
+2025-08-30T07:14:48.490824+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,81,0.0
+2025-08-30T07:14:49.516150+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:14:50.335343+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,83,0.0
+2025-08-30T07:14:51.256340+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,84,0.0
+2025-08-30T07:14:51.973409+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:14:52.894313+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:14:54.228147+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,87,0.0
+2025-08-30T07:14:57.969635+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:14:59.450501+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,89,0.0
+2025-08-30T07:15:02.230047+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:15:04.445437+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,91,0.0
+2025-08-30T07:15:07.229912+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,92,0.0
+2025-08-30T07:15:09.793265+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:15:11.385500+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:15:14.502270+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:15:16.432379+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,96,0.0
+2025-08-30T07:15:20.097936+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,97,0.0
+2025-08-30T07:15:21.954825+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:15:24.222050+00:00,anthropic,claude-3-5-sonnet-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,99,0.0
+2025-08-30T07:15:24.843673+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,0,0.0
+2025-08-30T07:15:25.598481+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,1,0.0
+2025-08-30T07:15:26.278095+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,2,0.0
+2025-08-30T07:15:26.995170+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,3,0.0
+2025-08-30T07:15:27.599447+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,4,0.0
+2025-08-30T07:15:28.223835+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,5,0.0
+2025-08-30T07:15:28.940893+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,6,0.0
+2025-08-30T07:15:29.547678+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,7,0.0
+2025-08-30T07:15:30.272653+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,8,0.0
+2025-08-30T07:15:30.989359+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,9,0.0
+2025-08-30T07:15:31.706313+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,10,0.0
+2025-08-30T07:15:32.321799+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,11,0.0
+2025-08-30T07:15:33.037553+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,12,0.0
+2025-08-30T07:15:33.754136+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,13,0.0
+2025-08-30T07:15:34.368801+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,14,0.0
+2025-08-30T07:15:35.084948+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,15,0.0
+2025-08-30T07:15:35.798961+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,16,0.0
+2025-08-30T07:15:36.723237+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,17,0.0
+2025-08-30T07:15:37.338696+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,18,0.0
+2025-08-30T07:15:37.952251+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,19,0.0
+2025-08-30T07:15:38.669599+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,20,0.0
+2025-08-30T07:15:39.284085+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,21,0.0
+2025-08-30T07:15:40.001313+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,22,0.0
+2025-08-30T07:15:40.616119+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,23,0.0
+2025-08-30T07:15:41.330972+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,24,0.0
+2025-08-30T07:15:42.050438+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,25,0.0
+2025-08-30T07:15:42.763327+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,26,0.0
+2025-08-30T07:15:43.435903+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,27,0.0
+2025-08-30T07:15:44.045311+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,28,0.0
+2025-08-30T07:15:44.713165+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,29,0.0
+2025-08-30T07:15:45.428776+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,30,0.0
+2025-08-30T07:15:46.203887+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,31,0.0
+2025-08-30T07:15:46.862145+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,32,0.0
+2025-08-30T07:15:47.579525+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,33,0.0
+2025-08-30T07:15:48.296903+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,34,0.0
+2025-08-30T07:15:48.909657+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,35,0.0
+2025-08-30T07:15:49.627427+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,36,0.0
+2025-08-30T07:15:50.241552+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,37,0.0
+2025-08-30T07:15:50.857060+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,38,0.0
+2025-08-30T07:15:51.572808+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,39,0.0
+2025-08-30T07:15:52.289964+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,40,0.0
+2025-08-30T07:15:53.005349+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,41,0.0
+2025-08-30T07:15:53.722979+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,42,0.0
+2025-08-30T07:15:54.337970+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,43,0.0
+2025-08-30T07:15:54.928974+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,44,0.0
+2025-08-30T07:15:55.566021+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,45,0.0
+2025-08-30T07:15:56.386129+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,46,0.0
+2025-08-30T07:15:57.102303+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,47,0.0
+2025-08-30T07:15:57.718431+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,48,0.0
+2025-08-30T07:15:58.432789+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,49,0.0
+2025-08-30T07:15:59.049369+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,50,0.0
+2025-08-30T07:15:59.727198+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,51,0.0
+2025-08-30T07:16:00.482498+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,52,0.0
+2025-08-30T07:16:01.199182+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,53,0.0
+2025-08-30T07:16:01.814518+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,54,0.0
+2025-08-30T07:16:02.426577+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,55,0.0
+2025-08-30T07:16:03.144779+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,56,0.0
+2025-08-30T07:16:03.862455+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,57,0.0
+2025-08-30T07:16:04.578194+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,58,0.0
+2025-08-30T07:16:05.293058+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,59,0.0
+2025-08-30T07:16:06.012060+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,60,0.0
+2025-08-30T07:16:06.651851+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,61,0.0
+2025-08-30T07:16:07.345080+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,62,0.0
+2025-08-30T07:16:08.059006+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,63,0.0
+2025-08-30T07:16:08.672899+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,64,0.0
+2025-08-30T07:16:09.377419+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,65,0.0
+2025-08-30T07:16:10.024888+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,66,0.0
+2025-08-30T07:16:10.634528+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,67,0.0
+2025-08-30T07:16:11.241034+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,68,0.0
+2025-08-30T07:16:11.952446+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,69,0.0
+2025-08-30T07:16:12.568452+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,70,0.0
+2025-08-30T07:16:13.165495+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,71,0.0
+2025-08-30T07:16:13.795436+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,72,0.0
+2025-08-30T07:16:14.511439+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,73,0.0
+2025-08-30T07:16:15.103168+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,74,0.0
+2025-08-30T07:16:15.684119+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,75,0.0
+2025-08-30T07:16:16.431023+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,76,0.0
+2025-08-30T07:16:17.071069+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,77,0.0
+2025-08-30T07:16:17.686459+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,78,0.0
+2025-08-30T07:16:18.403174+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,79,0.0
+2025-08-30T07:16:19.118574+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,80,0.0
+2025-08-30T07:16:19.835929+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,81,0.0
+2025-08-30T07:16:20.452099+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,82,0.0
+2025-08-30T07:16:21.082317+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,83,0.0
+2025-08-30T07:16:21.655989+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,84,0.0
+2025-08-30T07:16:22.397722+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,85,0.0
+2025-08-30T07:16:23.113748+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,86,0.0
+2025-08-30T07:16:23.833047+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,87,0.0
+2025-08-30T07:16:24.650821+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,88,0.0
+2025-08-30T07:16:25.365865+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,89,0.0
+2025-08-30T07:16:26.084809+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,90,0.0
+2025-08-30T07:16:26.639547+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,91,0.0
+2025-08-30T07:16:27.312906+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,92,0.0
+2025-08-30T07:16:28.847482+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,93,0.0
+2025-08-30T07:16:29.463602+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,94,0.0
+2025-08-30T07:16:30.180059+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,95,0.0
+2025-08-30T07:16:31.408674+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,96,0.0
+2025-08-30T07:16:32.125135+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,97,0.0
+2025-08-30T07:16:32.838524+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,98,0.0
+2025-08-30T07:16:33.558707+00:00,anthropic,claude-3-5-sonnet-20240620,Is a 'baby stroller' a 'vehicle'?,No,No,0,99,0.0
+2025-08-30T07:16:34.378447+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:16:35.198444+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:16:36.012861+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:16:36.938858+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:16:37.756609+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:16:38.576173+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:16:39.396012+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:16:40.215461+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:16:41.136075+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:16:41.956386+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:16:42.874722+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:16:44.004212+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,11,0.0
+2025-08-30T07:16:44.719975+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:16:45.437781+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:16:46.258385+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:16:46.881422+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:16:47.642126+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:16:49.636371+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,17,0.0
+2025-08-30T07:16:50.455296+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,18,0.0
+2025-08-30T07:16:51.173912+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,19,0.0
+2025-08-30T07:16:51.992588+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:16:52.812463+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:16:53.527927+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:16:54.243627+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,23,0.0
+2025-08-30T07:16:55.064079+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:16:57.112612+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:16:58.135226+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:16:59.077337+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:16:59.980720+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:17:00.901541+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:17:01.924582+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:17:02.743372+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:17:03.529100+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:17:04.382315+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,33,0.0
+2025-08-30T07:17:05.201691+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:17:06.019918+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:17:07.250432+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:17:08.506848+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:17:09.504779+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:17:10.629123+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,39,0.0
+2025-08-30T07:17:11.524043+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,40,0.0
+2025-08-30T07:17:12.472590+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:17:13.387638+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:17:14.316099+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,43,0.0
+2025-08-30T07:17:15.328306+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:17:16.262720+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:17:17.285189+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:17:18.105742+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:17:19.333626+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:17:20.210652+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:17:20.944243+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,50,0.0
+2025-08-30T07:17:21.778575+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,51,0.0
+2025-08-30T07:17:22.714020+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:17:23.638031+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:17:24.558411+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:17:25.272556+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,55,0.0
+2025-08-30T07:17:25.990735+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:17:26.809789+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,57,0.0
+2025-08-30T07:17:27.439705+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:17:28.243680+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,59,0.0
+2025-08-30T07:17:28.960514+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:17:29.780032+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:17:31.169262+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:17:32.647593+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:17:33.672020+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,64,0.0
+2025-08-30T07:17:34.593012+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:17:35.252152+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:17:36.128724+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:17:36.843709+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:17:37.765860+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,69,0.0
+2025-08-30T07:17:38.483441+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:17:39.152908+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,71,0.0
+2025-08-30T07:17:39.919367+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:17:40.942751+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:17:41.764809+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:17:42.583239+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:17:43.364370+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:17:44.116702+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:17:44.937178+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:17:45.754609+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:17:46.471506+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,80,0.0
+2025-08-30T07:17:47.294015+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,81,0.0
+2025-08-30T07:17:48.008208+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:17:48.828922+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,83,0.0
+2025-08-30T07:17:49.546352+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,84,0.0
+2025-08-30T07:17:50.262597+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:17:50.950999+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:17:51.800194+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,87,0.0
+2025-08-30T07:17:52.617645+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:17:53.335288+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,89,0.0
+2025-08-30T07:17:54.052213+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:17:55.794302+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,91,0.0
+2025-08-30T07:17:58.637994+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,92,0.0
+2025-08-30T07:17:59.993800+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:18:01.322330+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:18:02.474173+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:18:03.269034+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,96,0.0
+2025-08-30T07:18:04.718584+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,97,0.0
+2025-08-30T07:18:05.523606+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:18:06.241188+00:00,anthropic,claude-3-5-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,99,0.0
+2025-08-30T07:18:06.830649+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:18:07.472168+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:18:08.289302+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,2,0.0
+2025-08-30T07:18:09.108076+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,3,0.0
+2025-08-30T07:18:09.824501+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:18:10.435443+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:18:10.995029+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:18:11.550135+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:18:12.281446+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:18:13.306520+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:18:13.923688+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:18:14.739874+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,11,0.0
+2025-08-30T07:18:16.487270+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:18:17.095598+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:18:17.710229+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:18:18.323673+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:18:19.041935+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:18:19.964169+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,17,0.0
+2025-08-30T07:18:20.751939+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,18,0.0
+2025-08-30T07:18:21.604184+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,19,0.0
+2025-08-30T07:18:22.317925+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:18:22.931525+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:18:23.478968+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:18:24.443949+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,23,0.0
+2025-08-30T07:18:25.087474+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:18:25.799223+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:18:26.411227+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:18:27.234563+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,27,0.0
+2025-08-30T07:18:28.049923+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,28,0.0
+2025-08-30T07:18:28.669728+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:18:29.586643+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,30,0.0
+2025-08-30T07:18:30.306042+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:18:30.919688+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:18:31.635363+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,33,0.0
+2025-08-30T07:18:32.455897+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,34,0.0
+2025-08-30T07:18:33.378234+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,35,0.0
+2025-08-30T07:18:33.991921+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:18:34.813808+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,37,0.0
+2025-08-30T07:18:35.393169+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:18:36.144304+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,39,0.0
+2025-08-30T07:18:36.962454+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,40,0.0
+2025-08-30T07:18:37.576108+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:18:38.190387+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:18:39.010536+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,43,0.0
+2025-08-30T07:18:40.137653+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,44,0.0
+2025-08-30T07:18:40.751788+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:18:41.366022+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:18:42.184255+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,47,0.0
+2025-08-30T07:18:42.799239+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:18:43.667278+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:18:44.539940+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,50,0.0
+2025-08-30T07:18:45.359598+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,51,0.0
+2025-08-30T07:18:46.179497+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,52,0.0
+2025-08-30T07:18:46.793106+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:18:47.510379+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:18:48.328526+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,55,0.0
+2025-08-30T07:18:49.147659+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,56,0.0
+2025-08-30T07:18:49.967402+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,57,0.0
+2025-08-30T07:18:50.583037+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:18:51.501329+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,59,0.0
+2025-08-30T07:18:52.220179+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,60,0.0
+2025-08-30T07:18:52.937895+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:18:53.757093+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,62,0.0
+2025-08-30T07:18:54.576964+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:18:55.280811+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,64,0.0
+2025-08-30T07:18:56.009766+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:18:56.625032+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:18:57.237999+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:18:58.054309+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,68,0.0
+2025-08-30T07:18:58.802882+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,69,0.0
+2025-08-30T07:18:59.489537+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:19:00.518397+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,71,0.0
+2025-08-30T07:19:01.334327+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,72,0.0
+2025-08-30T07:19:02.256151+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,73,0.0
+2025-08-30T07:19:02.871297+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:19:03.590550+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:19:04.405655+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,76,0.0
+2025-08-30T07:19:04.965464+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:19:05.737814+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,78,0.0
+2025-08-30T07:19:06.353985+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:19:07.274627+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,80,0.0
+2025-08-30T07:19:08.089427+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,81,0.0
+2025-08-30T07:19:08.896538+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,82,0.0
+2025-08-30T07:19:09.661528+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,83,0.0
+2025-08-30T07:19:10.653932+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,84,0.0
+2025-08-30T07:19:11.370512+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,85,0.0
+2025-08-30T07:19:12.094668+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,86,0.0
+2025-08-30T07:19:12.907557+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,87,0.0
+2025-08-30T07:19:13.622916+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,88,0.0
+2025-08-30T07:19:14.442880+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,89,0.0
+2025-08-30T07:19:15.158896+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:19:16.286372+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,91,0.0
+2025-08-30T07:19:17.034169+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,92,0.0
+2025-08-30T07:19:17.923629+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,93,0.0
+2025-08-30T07:19:18.743714+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,94,0.0
+2025-08-30T07:19:19.465641+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,95,0.0
+2025-08-30T07:19:20.170698+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,96,0.0
+2025-08-30T07:19:20.982175+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,97,0.0
+2025-08-30T07:19:21.771321+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,98,0.0
+2025-08-30T07:19:22.635807+00:00,anthropic,claude-3-5-haiku-20241022,Is a 'baby stroller' a 'vehicle'?,No,No,0,99,0.0
+2025-08-30T07:19:23.455430+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,0,0.0
+2025-08-30T07:19:24.272758+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,1,0.0
+2025-08-30T07:19:24.889142+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:19:25.501560+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:19:26.320433+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,4,0.0
+2025-08-30T07:19:27.244119+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,5,0.0
+2025-08-30T07:19:28.060385+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,6,0.0
+2025-08-30T07:19:28.676124+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:19:29.495794+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,8,0.0
+2025-08-30T07:19:30.315354+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,9,0.0
+2025-08-30T07:19:31.240766+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,10,0.0
+2025-08-30T07:19:32.057456+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,11,0.0
+2025-08-30T07:19:32.874896+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,12,0.0
+2025-08-30T07:19:33.694077+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,13,0.0
+2025-08-30T07:19:34.410825+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,14,0.0
+2025-08-30T07:19:35.230855+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,15,0.0
+2025-08-30T07:19:36.047797+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,16,0.0
+2025-08-30T07:19:36.870788+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,17,0.0
+2025-08-30T07:19:37.586760+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,18,0.0
+2025-08-30T07:19:38.405690+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,19,0.0
+2025-08-30T07:19:39.122746+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,20,0.0
+2025-08-30T07:19:39.840320+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,21,0.0
+2025-08-30T07:19:40.658294+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,22,0.0
+2025-08-30T07:19:41.433673+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,23,0.0
+2025-08-30T07:19:42.297325+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,24,0.0
+2025-08-30T07:19:43.014771+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:19:43.709561+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,26,0.0
+2025-08-30T07:19:44.551292+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,27,0.0
+2025-08-30T07:19:45.266144+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,28,0.0
+2025-08-30T07:19:46.188891+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,29,0.0
+2025-08-30T07:19:46.902929+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:19:47.822956+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,31,0.0
+2025-08-30T07:19:48.542072+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,32,0.0
+2025-08-30T07:19:49.360982+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,33,0.0
+2025-08-30T07:19:49.974873+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:19:50.591545+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:19:51.409530+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,36,0.0
+2025-08-30T07:19:52.125687+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:19:52.944622+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,38,0.0
+2025-08-30T07:19:53.756453+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,39,0.0
+2025-08-30T07:19:54.539073+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,40,0.0
+2025-08-30T07:19:55.297230+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,41,0.0
+2025-08-30T07:19:56.121872+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,42,0.0
+2025-08-30T07:19:56.941356+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,43,0.0
+2025-08-30T07:19:57.553309+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:19:58.372836+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,45,0.0
+2025-08-30T07:19:59.055283+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,46,0.0
+2025-08-30T07:20:00.010411+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,47,0.0
+2025-08-30T07:20:00.930992+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,48,0.0
+2025-08-30T07:20:01.650312+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:20:02.469764+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,50,0.0
+2025-08-30T07:20:03.287114+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,51,0.0
+2025-08-30T07:20:05.437701+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:20:06.259077+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,53,0.0
+2025-08-30T07:20:07.076244+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,54,0.0
+2025-08-30T07:20:07.874127+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,55,0.0
+2025-08-30T07:20:08.510544+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:20:09.535670+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,57,0.0
+2025-08-30T07:20:10.252011+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,58,0.0
+2025-08-30T07:20:11.005172+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,59,0.0
+2025-08-30T07:20:11.567774+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:20:12.332235+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,61,0.0
+2025-08-30T07:20:13.119102+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:20:13.938818+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,63,0.0
+2025-08-30T07:20:14.710979+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,64,0.0
+2025-08-30T07:20:15.491161+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,65,0.0
+2025-08-30T07:20:16.190423+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,66,0.0
+2025-08-30T07:20:17.009467+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,67,0.0
+2025-08-30T07:20:17.728399+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:20:18.651189+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,69,0.0
+2025-08-30T07:20:19.470194+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,70,0.0
+2025-08-30T07:20:20.288497+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,71,0.0
+2025-08-30T07:20:21.084824+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,72,0.0
+2025-08-30T07:20:21.820210+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:20:22.642506+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,74,0.0
+2025-08-30T07:20:23.462337+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,75,0.0
+2025-08-30T07:20:24.178745+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:20:24.879628+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,77,0.0
+2025-08-30T07:20:25.509502+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:20:26.431770+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,79,0.0
+2025-08-30T07:20:27.148871+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,80,0.0
+2025-08-30T07:20:27.968346+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,81,0.0
+2025-08-30T07:20:28.787652+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,82,0.0
+2025-08-30T07:20:29.608178+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,83,0.0
+2025-08-30T07:20:30.732938+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,84,0.0
+2025-08-30T07:20:31.347414+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:20:31.962366+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:20:32.778874+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,87,0.0
+2025-08-30T07:20:33.704304+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:20:34.521896+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,89,0.0
+2025-08-30T07:20:35.335351+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,90,0.0
+2025-08-30T07:20:36.063225+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,91,0.0
+2025-08-30T07:20:36.875240+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,92,0.0
+2025-08-30T07:20:37.581510+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,93,0.0
+2025-08-30T07:20:38.404548+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,94,0.0
+2025-08-30T07:20:39.040249+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:20:39.816054+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,96,0.0
+2025-08-30T07:20:40.665916+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,97,0.0
+2025-08-30T07:20:41.337443+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:20:42.099960+00:00,anthropic,claude-3-5-haiku-latest,Is a 'baby stroller' a 'vehicle'?,No,No,0,99,0.0
+2025-08-30T07:20:44.659295+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:20:46.606531+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:20:48.756499+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:20:51.930233+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:20:53.570238+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:20:55.719518+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:20:59.100106+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:21:01.250838+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:21:04.629449+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:21:05.960713+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:21:07.906707+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:21:10.364143+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,11,0.0
+2025-08-30T07:21:12.820445+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:21:16.437370+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:21:18.555740+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:21:20.194587+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:21:22.115555+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:21:24.188375+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,17,0.0
+2025-08-30T07:21:26.850641+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,18,0.0
+2025-08-30T07:21:29.003386+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,19,0.0
+2025-08-30T07:21:31.561564+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:21:34.123569+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:21:36.008633+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:21:37.910545+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,23,0.0
+2025-08-30T07:21:39.958010+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:21:42.928384+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:21:44.771046+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:21:48.149522+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:21:50.097923+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:21:53.065157+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:21:54.883790+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:21:57.777951+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:21:59.313877+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:22:02.487333+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,33,0.0
+2025-08-30T07:22:04.023311+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:22:06.688899+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:22:09.760578+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:22:13.340762+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:22:15.492395+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:22:18.055346+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,39,0.0
+2025-08-30T07:22:20.409001+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,40,0.0
+2025-08-30T07:22:22.560194+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:22:24.608904+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:22:26.143626+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,43,0.0
+2025-08-30T07:22:27.373184+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:22:29.712034+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:22:31.982505+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:22:34.028850+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:22:37.408511+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:22:39.416899+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:22:42.838056+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,50,0.0
+2025-08-30T07:22:46.012207+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,51,0.0
+2025-08-30T07:22:49.500209+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:22:51.027042+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:22:52.568243+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:22:55.393071+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,55,0.0
+2025-08-30T07:22:57.481309+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:22:58.915143+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,57,0.0
+2025-08-30T07:23:01.372642+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:23:03.520756+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,59,0.0
+2025-08-30T07:23:05.057456+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:23:07.927022+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:23:09.667795+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:23:12.228168+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:23:15.095208+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,64,0.0
+2025-08-30T07:23:17.142039+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:23:20.261618+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:23:22.367418+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:23:24.546861+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:23:26.154876+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,69,0.0
+2025-08-30T07:23:29.022033+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:23:31.787743+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,71,0.0
+2025-08-30T07:23:34.347357+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:23:37.111291+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:23:38.955714+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:23:40.795421+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:23:43.593387+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:23:45.408044+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:23:47.146841+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:23:48.888485+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:23:49.912185+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,80,0.0
+2025-08-30T07:23:51.960035+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,81,0.0
+2025-08-30T07:23:54.212595+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:23:57.081148+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,83,0.0
+2025-08-30T07:23:59.136754+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,84,0.0
+2025-08-30T07:24:01.586936+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:24:03.633068+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:24:05.801245+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,87,0.0
+2025-08-30T07:24:08.034256+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:24:10.188261+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,89,0.0
+2025-08-30T07:24:13.670601+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:24:16.651264+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,91,0.0
+2025-08-30T07:24:19.917452+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,92,0.0
+2025-08-30T07:24:21.757445+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:24:23.808997+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:24:27.904657+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:24:29.850225+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,96,0.0
+2025-08-30T07:24:31.638420+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,97,0.0
+2025-08-30T07:24:33.476811+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:24:35.699914+00:00,anthropic,claude-3-7-sonnet-20250219,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,99,0.0
+2025-08-30T07:24:38.552095+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,0,0.0
+2025-08-30T07:24:40.603212+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,1,0.0
+2025-08-30T07:24:43.501834+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,2,0.0
+2025-08-30T07:24:45.517815+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,3,0.0
+2025-08-30T07:24:47.475560+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,4,0.0
+2025-08-30T07:24:49.820644+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,5,0.0
+2025-08-30T07:24:51.356471+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,6,0.0
+2025-08-30T07:24:53.098094+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,7,0.0
+2025-08-30T07:24:55.554557+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,8,0.0
+2025-08-30T07:24:57.604008+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,9,0.0
+2025-08-30T07:24:59.447966+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,10,0.0
+2025-08-30T07:25:01.288318+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,11,0.0
+2025-08-30T07:25:03.746091+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,12,0.0
+2025-08-30T07:25:05.647477+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,13,0.0
+2025-08-30T07:25:08.148645+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,14,0.0
+2025-08-30T07:25:10.708965+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,15,0.0
+2025-08-30T07:25:13.531074+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,16,0.0
+2025-08-30T07:25:16.036172+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,17,0.0
+2025-08-30T07:25:18.185127+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,18,0.0
+2025-08-30T07:25:20.029800+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,19,0.0
+2025-08-30T07:25:21.811529+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,20,0.0
+2025-08-30T07:25:24.520688+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,21,0.0
+2025-08-30T07:25:26.585524+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,22,0.0
+2025-08-30T07:25:28.528242+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,23,0.0
+2025-08-30T07:25:30.473738+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,24,0.0
+2025-08-30T07:25:32.931005+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,25,0.0
+2025-08-30T07:25:35.183468+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,26,0.0
+2025-08-30T07:25:37.130325+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,27,0.0
+2025-08-30T07:25:38.440644+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,28,0.0
+2025-08-30T07:25:40.335524+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,29,0.0
+2025-08-30T07:25:42.560654+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,30,0.0
+2025-08-30T07:25:43.889110+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,31,0.0
+2025-08-30T07:25:46.962474+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,32,0.0
+2025-08-30T07:25:49.930177+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,33,0.0
+2025-08-30T07:25:51.587330+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,34,0.0
+2025-08-30T07:25:53.105800+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,35,0.0
+2025-08-30T07:25:55.593288+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,36,0.0
+2025-08-30T07:25:57.920733+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,37,0.0
+2025-08-30T07:25:59.249594+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,38,0.0
+2025-08-30T07:26:02.222010+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,39,0.0
+2025-08-30T07:26:04.985690+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,40,0.0
+2025-08-30T07:26:07.650171+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,41,0.0
+2025-08-30T07:26:10.003181+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,42,0.0
+2025-08-30T07:26:12.051605+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,43,0.0
+2025-08-30T07:26:16.248739+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,44,0.0
+2025-08-30T07:26:18.913699+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,45,0.0
+2025-08-30T07:26:21.984111+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,46,0.0
+2025-08-30T07:26:24.237326+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,47,0.0
+2025-08-30T07:26:27.004176+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,48,0.0
+2025-08-30T07:26:30.276920+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,49,0.0
+2025-08-30T07:26:32.530802+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,50,0.0
+2025-08-30T07:26:34.273669+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,51,0.0
+2025-08-30T07:26:37.138687+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,52,0.0
+2025-08-30T07:26:38.672915+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,53,0.0
+2025-08-30T07:26:40.422543+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,54,0.0
+2025-08-30T07:26:42.670572+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,55,0.0
+2025-08-30T07:26:45.256665+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,56,0.0
+2025-08-30T07:26:47.381126+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,57,0.0
+2025-08-30T07:26:49.530427+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,58,0.0
+2025-08-30T07:26:51.375087+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,59,0.0
+2025-08-30T07:26:53.829374+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,60,0.0
+2025-08-30T07:26:56.702696+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,61,0.0
+2025-08-30T07:26:59.055440+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,62,0.0
+2025-08-30T07:27:01.704050+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,63,0.0
+2025-08-30T07:27:04.482636+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,64,0.0
+2025-08-30T07:27:06.325988+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,65,0.0
+2025-08-30T07:27:08.958045+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,66,0.0
+2025-08-30T07:27:12.263913+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,67,0.0
+2025-08-30T07:27:13.797324+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,68,0.0
+2025-08-30T07:27:16.711439+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,69,0.0
+2025-08-30T07:27:19.023870+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,70,0.0
+2025-08-30T07:27:21.584059+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,71,0.0
+2025-08-30T07:27:24.353370+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,72,0.0
+2025-08-30T07:27:26.091491+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,73,0.0
+2025-08-30T07:27:28.851611+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,74,0.0
+2025-08-30T07:27:30.756259+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,75,0.0
+2025-08-30T07:27:33.359586+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,76,0.0
+2025-08-30T07:27:34.895532+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,77,0.0
+2025-08-30T07:27:37.046834+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,78,0.0
+2025-08-30T07:27:39.194327+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,79,0.0
+2025-08-30T07:27:42.371801+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,80,0.0
+2025-08-30T07:27:45.445521+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,81,0.0
+2025-08-30T07:27:47.492923+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,82,0.0
+2025-08-30T07:27:49.028795+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,83,0.0
+2025-08-30T07:27:51.281535+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,84,0.0
+2025-08-30T07:27:54.971307+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,85,0.0
+2025-08-30T07:27:56.502402+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,86,0.0
+2025-08-30T07:27:58.678591+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,87,0.0
+2025-08-30T07:28:01.216706+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,88,0.0
+2025-08-30T07:28:02.546963+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,89,0.0
+2025-08-30T07:28:04.290589+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,90,0.0
+2025-08-30T07:28:06.130399+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,91,0.0
+2025-08-30T07:28:08.280275+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,92,0.0
+2025-08-30T07:28:12.277031+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,93,0.0
+2025-08-30T07:28:13.640082+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,94,0.0
+2025-08-30T07:28:15.277981+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,95,0.0
+2025-08-30T07:28:17.703183+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,96,0.0
+2025-08-30T07:28:19.955908+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,97,0.0
+2025-08-30T07:28:21.593666+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,98,0.0
+2025-08-30T07:28:23.232791+00:00,anthropic,claude-3-7-sonnet-latest,Is a 'baby stroller' a 'vehicle'?,Yes,Yes,1,99,0.0

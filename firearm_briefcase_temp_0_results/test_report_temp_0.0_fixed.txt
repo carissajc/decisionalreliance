@@ -1,0 +1,23 @@
+HISTORICAL MODELS FIREARM BRIEFCASE TEST REPORT - FIXED (TEMPERATURE 0.0)
+
+Question tested: Does transporting a firearm in a briefcase constitute 'carrying' a firearm?
+Temperature: 0.0
+Total models tested: 16
+Trials per model: 100
+Total trials: 1578
+Successful trials: 1078
+
+IMPROVEMENTS MADE:
+- Increased Claude max_tokens from 3 to 15
+- Added strict prompt forcing "Yes" or "No" first
+- Enhanced normalization logic for partial responses
+- Reran only Claude models, kept existing OpenAI results
+
+Top 5 models by number of Yes responses:
+1. gpt-3.5-turbo-0125: 100/100 Yes (100.0%)
+2. gpt-3.5-turbo-1106: 100/100 Yes (100.0%)
+3. gpt-3.5-turbo-instruct: 100/100 Yes (100.0%)
+4. gpt-4-0613: 100/100 Yes (100.0%)
+5. claude-3-5-sonnet-20241022: 100/100 Yes (100.0%)
+
+Results saved in: firearm_briefcase_temp_0_results/

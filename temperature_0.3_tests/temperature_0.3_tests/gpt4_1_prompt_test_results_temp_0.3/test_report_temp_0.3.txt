@@ -1,0 +1,79 @@
+GPT-4.1 PROMPT VARIATION TEST REPORT (TEMPERATURE 0.3)
+======================================================================
+
+Test Question: Does transporting a firearm in the locked trunk of a vehicle constitute 'carrying' the firearm for purposes of the statute?
+Model: gpt-4.1-2025-04-14
+Temperature: 0.3
+Trials per prompt: 100
+Total prompt variations: 51
+Total trials: 5099
+Test completed: 2025-08-30 12:26:58
+
+RESULTS SUMMARY:
+--------------------
+Verbose: 87/100 Yes (87.0%)
+Answer by your best guess: 27/100 Yes (27.0%)
+Concise: 16/100 Yes (16.0%)
+50 Percent Sure: 9/100 Yes (9.0%)
+Immoral Frame: 6/99 Yes (6.1%)
+Direct Answer Only: 2/100 Yes (2.0%)
+Broken Clock: 1/100 Yes (1.0%)
+Step by Step: 1/100 Yes (1.0%)
+Blue Sky: 1/100 Yes (1.0%)
+Time Freeze: 1/100 Yes (1.0%)
+Upside Down: 0/100 Yes (0.0%)
+Purple Chalkboard: 0/100 Yes (0.0%)
+No Added Information: 0/100 Yes (0.0%)
+Water Dripping: 0/100 Yes (0.0%)
+No thinking extensively allowed: 0/100 Yes (0.0%)
+Orange Desert: 0/100 Yes (0.0%)
+Polite Instruction: 0/100 Yes (0.0%)
+Positive Emotion: 0/100 Yes (0.0%)
+Red Door: 0/100 Yes (0.0%)
+Random Constraint: 0/100 Yes (0.0%)
+Red is the Best Color: 0/100 Yes (0.0%)
+Red room with three chairs: 0/100 Yes (0.0%)
+Moral Frame: 0/100 Yes (0.0%)
+Selfish Frame: 0/100 Yes (0.0%)
+Speak plainly: 0/100 Yes (0.0%)
+Strange Smell: 0/100 Yes (0.0%)
+Talking Dog: 0/100 Yes (0.0%)
+Negative Emotion: 0/100 Yes (0.0%)
+Irrelevant Context B: 0/100 Yes (0.0%)
+Melting Floor: 0/100 Yes (0.0%)
+Loud Music: 0/100 Yes (0.0%)
+Banana Room: 0/100 Yes (0.0%)
+Caring Frame: 0/100 Yes (0.0%)
+Casual Style: 0/100 Yes (0.0%)
+Ceiling Cats: 0/100 Yes (0.0%)
+Commanding Instruction: 0/100 Yes (0.0%)
+Completely Certain: 0/100 Yes (0.0%)
+Contradictory Cue: 0/100 Yes (0.0%)
+Crowded Train: 0/100 Yes (0.0%)
+Deja Vu: 0/100 Yes (0.0%)
+Do not answer as an non-ordinary person: 0/100 Yes (0.0%)
+Empty Library: 0/100 Yes (0.0%)
+Floating Lamps: 0/100 Yes (0.0%)
+Four Shadows: 0/100 Yes (0.0%)
+Gold room with two lamps: 0/100 Yes (0.0%)
+Green is the Best Color: 0/100 Yes (0.0%)
+Infinite Mirrors: 0/100 Yes (0.0%)
+Invisible Friend: 0/100 Yes (0.0%)
+Irrelevant Context A: 0/100 Yes (0.0%)
+Lawyer Style: 0/100 Yes (0.0%)
+You're very good at your job: 0/100 Yes (0.0%)
+
+STATISTICS:
+---------------
+Highest % Yes: 87.0%
+Lowest % Yes: 0.0%
+Mean % Yes: 3.0%
+Standard Deviation: 12.8%
+
+MOST EFFECTIVE PROMPT (Highest % Yes):
+  Verbose: 87/100 (87.0%)
+
+LEAST EFFECTIVE PROMPT (Lowest % Yes):
+  You're very good at your job: 0/100 (0.0%)
+
+NOTE: This test was run with temperature 0.3 (vs. 0.0 in original test)

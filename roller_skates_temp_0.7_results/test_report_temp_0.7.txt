@@ -1,0 +1,17 @@
+HISTORICAL MODELS ROLLER SKATES TEST REPORT (TEMPERATURE 0.7)
+
+Question tested: Are 'roller skates' a 'vehicle'?
+Temperature: 0.7
+Total models tested: 16
+Trials per model: 100
+Total trials: 1600
+Successful trials: 296
+
+Top 5 models by number of Yes responses:
+1. gpt-3.5-turbo-instruct: 43/100 Yes (43.0%)
+2. gpt-3.5-turbo-1106: 11/100 Yes (11.0%)
+3. gpt-3.5-turbo-0125: 9/100 Yes (9.0%)
+4. gpt-4o-2024-11-20: 7/100 Yes (7.0%)
+5. gpt-4-0613: 6/100 Yes (6.0%)
+
+Results saved in: roller_skates_temp_0.7_results/

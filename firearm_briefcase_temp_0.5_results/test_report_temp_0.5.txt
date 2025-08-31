@@ -1,0 +1,17 @@
+HISTORICAL MODELS FIREARM BRIEFCASE TEST REPORT (TEMPERATURE 0.5)
+
+Question tested: Does transporting a firearm in a briefcase constitute 'carrying' a firearm?
+Temperature: 0.5
+Total models tested: 16
+Trials per model: 100
+Total trials: 1587
+Successful trials: 321
+
+Top 5 models by number of Yes responses:
+1. gpt-4-0613: 100/100 Yes (100.0%)
+2. gpt-3.5-turbo-1106: 97/100 Yes (97.0%)
+3. gpt-3.5-turbo-0125: 72/100 Yes (72.0%)
+4. gpt-3.5-turbo-instruct: 49/100 Yes (49.0%)
+5. gpt-4-0125-preview: 3/100 Yes (3.0%)
+
+Results saved in: firearm_briefcase_temp_0.5_results/

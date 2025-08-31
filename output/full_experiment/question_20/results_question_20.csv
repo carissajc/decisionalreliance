@@ -1,0 +1,676 @@
+timestamp_utc,question_index,question_label,provider,model,prompt_variation,temperature,trial_idx,raw_text,extracted_answer,is_yes,api_provider,response_time,api_status
+2025-08-25T11:32:22.994957+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,0,Yes,Yes,1.0,openai,0.8958272933959961,success
+2025-08-25T11:32:23.561626+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,1,Yes,Yes,1.0,openai,0.46377992630004883,success
+2025-08-25T11:32:24.037618+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,2,Yes,Yes,1.0,openai,0.3720669746398926,success
+2025-08-25T11:32:24.787259+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,3,Yes,Yes,1.0,openai,0.6482789516448975,success
+2025-08-25T11:32:28.708217+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,4,Yes,Yes,1.0,openai,3.817309856414795,success
+2025-08-25T11:32:29.332415+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,5,Yes,Yes,1.0,openai,0.520301103591919,success
+2025-08-25T11:32:29.991535+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,6,Yes,Yes,1.0,openai,0.5554642677307129,success
+2025-08-25T11:32:30.618209+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,7,Yes,Yes,1.0,openai,0.5209221839904785,success
+2025-08-25T11:32:31.392283+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,8,Yes,Yes,1.0,openai,0.6690549850463867,success
+2025-08-25T11:32:31.996972+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,9,Yes,Yes,1.0,openai,0.5008378028869629,success
+2025-08-25T11:32:32.582423+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,10,Yes,Yes,1.0,openai,0.4816160202026367,success
+2025-08-25T11:32:33.150025+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,11,Yes,Yes,1.0,openai,0.46437883377075195,success
+2025-08-25T11:32:33.811416+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,12,Yes,Yes,1.0,openai,0.5583341121673584,success
+2025-08-25T11:32:34.509440+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,13,Yes,Yes,1.0,openai,0.5933308601379395,success
+2025-08-25T11:32:35.172845+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.0,14,Yes,Yes,1.0,openai,0.5598859786987305,success
+2025-08-25T11:32:35.625482+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,0,Yes,Yes,1.0,openai,0.35055112838745117,success
+2025-08-25T11:32:36.080504+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,1,Yes,Yes,1.0,openai,0.353316068649292,success
+2025-08-25T11:32:36.711945+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,2,Yes,Yes,1.0,openai,0.5284650325775146,success
+2025-08-25T11:32:37.271506+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,3,Yes,Yes,1.0,openai,0.45629000663757324,success
+2025-08-25T11:32:37.799517+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,4,Yes,Yes,1.0,openai,0.42616796493530273,success
+2025-08-25T11:32:38.467760+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,5,Yes,Yes,1.0,openai,0.5653769969940186,success
+2025-08-25T11:32:39.445025+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,6,Yes,Yes,1.0,openai,0.8740158081054688,success
+2025-08-25T11:32:40.083034+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,7,Yes,Yes,1.0,openai,0.5341620445251465,success
+2025-08-25T11:32:41.161957+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,8,Yes,Yes,1.0,openai,0.9761333465576172,success
+2025-08-25T11:32:41.818497+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,9,Yes,Yes,1.0,openai,0.5538811683654785,success
+2025-08-25T11:32:42.600039+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,10,Yes,Yes,1.0,openai,0.6778638362884521,success
+2025-08-25T11:32:43.174688+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,11,Yes,Yes,1.0,openai,0.47132086753845215,success
+2025-08-25T11:32:43.877658+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,12,Yes,Yes,1.0,openai,0.6011638641357422,success
+2025-08-25T11:32:44.804725+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,13,Yes,Yes,1.0,openai,0.823566198348999,success
+2025-08-25T11:32:45.514028+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,0.5,14,Yes,Yes,1.0,openai,0.6064801216125488,success
+2025-08-25T11:32:47.836926+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,0,Yes,Yes,1.0,openai,2.2189459800720215,success
+2025-08-25T11:32:48.331169+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,1,Yes,Yes,1.0,openai,0.3905820846557617,success
+2025-08-25T11:32:48.913323+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,2,Yes,Yes,1.0,openai,0.4774351119995117,success
+2025-08-25T11:32:49.474375+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,3,Yes,Yes,1.0,openai,0.45922303199768066,success
+2025-08-25T11:32:50.044085+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,4,Yes,Yes,1.0,openai,0.4678800106048584,success
+2025-08-25T11:32:50.962681+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,5,Yes,Yes,1.0,openai,0.8150629997253418,success
+2025-08-25T11:32:52.073080+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,6,Yes,Yes,1.0,openai,1.0078039169311523,success
+2025-08-25T11:32:52.750017+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,7,Yes,Yes,1.0,openai,0.5728950500488281,success
+2025-08-25T11:32:53.349275+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,8,Yes,Yes,1.0,openai,0.4953458309173584,success
+2025-08-25T11:32:54.484571+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,9,Yes,Yes,1.0,openai,1.03181791305542,success
+2025-08-25T11:32:55.131072+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,10,Yes,Yes,1.0,openai,0.543316125869751,success
+2025-08-25T11:32:55.693821+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,11,Yes,Yes,1.0,openai,0.46042299270629883,success
+2025-08-25T11:32:56.321952+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,12,Yes,Yes,1.0,openai,0.5244312286376953,success
+2025-08-25T11:32:56.998466+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,13,Yes,Yes,1.0,openai,0.573401927947998,success
+2025-08-25T11:32:57.658892+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,normal,1.0,14,Yes,Yes,1.0,openai,0.5570120811462402,success
+2025-08-25T11:32:58.176849+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,0,Yes,Yes,1.0,openai,0.41391801834106445,success
+2025-08-25T11:32:58.866975+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,1,Yes,Yes,1.0,openai,0.5872519016265869,success
+2025-08-25T11:32:59.421779+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,2,Yes,Yes,1.0,openai,0.4523768424987793,success
+2025-08-25T11:33:00.296029+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,3,Yes,Yes,1.0,openai,0.7703096866607666,success
+2025-08-25T11:33:01.558427+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,4,Yes,Yes,1.0,openai,1.1586170196533203,success
+2025-08-25T11:33:02.233117+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,5,Yes,Yes,1.0,openai,0.5706841945648193,success
+2025-08-25T11:33:03.236246+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,6,Yes,Yes,1.0,openai,0.8997659683227539,success
+2025-08-25T11:33:03.858161+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,7,Yes,Yes,1.0,openai,0.5187711715698242,success
+2025-08-25T11:33:04.446788+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,8,Yes,Yes,1.0,openai,0.4849710464477539,success
+2025-08-25T11:33:05.189607+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,9,Yes,Yes,1.0,openai,0.6398029327392578,success
+2025-08-25T11:33:06.972135+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,10,Yes,Yes,1.0,openai,1.678278923034668,success
+2025-08-25T11:33:07.565920+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,11,Yes,Yes,1.0,openai,0.4901001453399658,success
+2025-08-25T11:33:08.379558+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,12,Yes,Yes,1.0,openai,0.7119321823120117,success
+2025-08-25T11:33:08.998860+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,13,Yes,Yes,1.0,openai,0.5153608322143555,success
+2025-08-25T11:33:09.594212+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.0,14,Yes,Yes,1.0,openai,0.491840124130249,success
+2025-08-25T11:33:10.527043+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,0,Yes,Yes,1.0,openai,0.8299200534820557,success
+2025-08-25T11:33:11.300664+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,1,Yes,Yes,1.0,openai,0.6691787242889404,success
+2025-08-25T11:33:12.140099+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,2,Yes,Yes,1.0,openai,0.735154390335083,success
+2025-08-25T11:33:12.756875+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,3,Yes,Yes,1.0,openai,0.5125329494476318,success
+2025-08-25T11:33:13.473064+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,4,Yes,Yes,1.0,openai,0.61161208152771,success
+2025-08-25T11:33:14.069007+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,5,Yes,Yes,1.0,openai,0.49198389053344727,success
+2025-08-25T11:33:14.702033+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,6,Yes,Yes,1.0,openai,0.529670000076294,success
+2025-08-25T11:33:15.212922+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,7,Yes,Yes,1.0,openai,0.4087967872619629,success
+2025-08-25T11:33:15.927332+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,8,Yes,Yes,1.0,openai,0.6108777523040771,success
+2025-08-25T11:33:19.409133+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,9,Yes,Yes,1.0,openai,3.3775367736816406,success
+2025-08-25T11:33:20.490928+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,10,Yes,Yes,1.0,openai,0.978233814239502,success
+2025-08-25T11:33:21.087013+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,11,Yes,Yes,1.0,openai,0.4922487735748291,success
+2025-08-25T11:33:21.867360+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,12,Yes,Yes,1.0,openai,0.677685022354126,success
+2025-08-25T11:33:22.492618+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,13,Yes,Yes,1.0,openai,0.5229918956756592,success
+2025-08-25T11:33:23.095797+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,0.5,14,Yes,Yes,1.0,openai,0.49927282333374023,success
+2025-08-25T11:33:23.914858+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,0,Yes,Yes,1.0,openai,0.71561598777771,success
+2025-08-25T11:33:24.581024+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,1,Yes,Yes,1.0,openai,0.5622391700744629,success
+2025-08-25T11:33:25.952676+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,2,Yes,Yes,1.0,openai,1.2685680389404297,success
+2025-08-25T11:33:26.780608+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,3,Yes,Yes,1.0,openai,0.7247772216796875,success
+2025-08-25T11:33:27.364926+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,4,Yes,Yes,1.0,openai,0.4806790351867676,success
+2025-08-25T11:33:28.077659+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,5,Yes,Yes,1.0,openai,0.6092939376831055,success
+2025-08-25T11:33:28.578431+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,6,Yes,Yes,1.0,openai,0.3972487449645996,success
+2025-08-25T11:33:29.199809+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,7,Yes,Yes,1.0,openai,0.5176031589508057,success
+2025-08-25T11:33:29.694797+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,8,Yes,Yes,1.0,openai,0.39270591735839844,success
+2025-08-25T11:33:30.253541+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,9,Yes,Yes,1.0,openai,0.45450925827026367,success
+2025-08-25T11:33:31.532493+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,10,Yes,Yes,1.0,openai,1.1745221614837646,success
+2025-08-25T11:33:32.139648+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,11,Yes,Yes,1.0,openai,0.503148078918457,success
+2025-08-25T11:33:32.845277+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,12,Yes,Yes,1.0,openai,0.6031830310821533,success
+2025-08-25T11:33:33.641562+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,13,Yes,Yes,1.0,openai,0.6917879581451416,success
+2025-08-25T11:33:35.897755+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,law,1.0,14,Yes,Yes,1.0,openai,2.1522128582000732,success
+2025-08-25T11:33:36.562389+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,0,Yes,Yes,1.0,openai,0.5610799789428711,success
+2025-08-25T11:33:37.324183+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,1,Yes,Yes,1.0,openai,0.6576278209686279,success
+2025-08-25T11:33:38.450655+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,2,Yes,Yes,1.0,openai,1.0222268104553223,success
+2025-08-25T11:33:39.122305+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,3,Yes,Yes,1.0,openai,0.5681488513946533,success
+2025-08-25T11:33:39.605269+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,4,Yes,Yes,1.0,openai,0.37890195846557617,success
+2025-08-25T11:33:40.727604+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,5,Yes,Yes,1.0,openai,1.0183579921722412,success
+2025-08-25T11:33:41.429844+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,6,Yes,Yes,1.0,openai,0.5996401309967041,success
+2025-08-25T11:33:42.149137+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,7,Yes,Yes,1.0,openai,0.6158912181854248,success
+2025-08-25T11:33:42.818543+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,8,Yes,Yes,1.0,openai,0.5657050609588623,success
+2025-08-25T11:33:43.300565+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,9,Yes,Yes,1.0,openai,0.3785369396209717,success
+2025-08-25T11:33:44.706162+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,10,Yes,Yes,1.0,openai,1.30330491065979,success
+2025-08-25T11:33:45.279775+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,11,Yes,Yes,1.0,openai,0.47002410888671875,success
+2025-08-25T11:33:45.876070+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,12,Yes,Yes,1.0,openai,0.49293065071105957,success
+2025-08-25T11:33:47.015190+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,13,Yes,Yes,1.0,openai,1.0355420112609863,success
+2025-08-25T11:33:47.772577+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.0,14,Yes,Yes,1.0,openai,0.6539230346679688,success
+2025-08-25T11:33:48.325859+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,0,Yes,Yes,1.0,openai,0.4496610164642334,success
+2025-08-25T11:33:48.912428+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,1,Yes,Yes,1.0,openai,0.48238277435302734,success
+2025-08-25T11:33:50.641214+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,2,Yes,Yes,1.0,openai,1.6264598369598389,success
+2025-08-25T11:33:58.346203+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,3,Yes,Yes,1.0,openai,7.600506067276001,success
+2025-08-25T11:33:59.084757+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,4,Yes,Yes,1.0,openai,0.6311819553375244,success
+2025-08-25T11:33:59.749486+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,5,Yes,Yes,1.0,openai,0.5610358715057373,success
+2025-08-25T11:34:00.632452+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,6,Yes,Yes,1.0,openai,0.7793300151824951,success
+2025-08-25T11:34:01.448184+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,7,Yes,Yes,1.0,openai,0.712536096572876,success
+2025-08-25T11:34:02.363153+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,8,Yes,Yes,1.0,openai,0.8116581439971924,success
+2025-08-25T11:34:03.236597+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,9,Yes,Yes,1.0,openai,0.7709150314331055,success
+2025-08-25T11:34:03.924631+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,10,Yes,Yes,1.0,openai,0.5842359066009521,success
+2025-08-25T11:34:04.490222+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,11,Yes,Yes,1.0,openai,0.46234917640686035,success
+2025-08-25T11:34:05.159573+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,12,Yes,Yes,1.0,openai,0.5660316944122314,success
+2025-08-25T11:34:05.692139+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,13,Yes,Yes,1.0,openai,0.4304630756378174,success
+2025-08-25T11:34:06.512821+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,0.5,14,Yes,Yes,1.0,openai,0.7171270847320557,success
+2025-08-25T11:34:07.122686+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,0,Yes,Yes,1.0,openai,0.5079081058502197,success
+2025-08-25T11:34:07.699859+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,1,Yes,Yes,1.0,openai,0.4738759994506836,success
+2025-08-25T11:34:08.445513+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,2,Yes,Yes,1.0,openai,0.6424529552459717,success
+2025-08-25T11:34:09.233237+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,3,Yes,Yes,1.0,openai,0.6840651035308838,success
+2025-08-25T11:34:09.798467+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,4,Yes,Yes,1.0,openai,0.4619560241699219,success
+2025-08-25T11:34:10.358051+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,5,Yes,Yes,1.0,openai,0.45647406578063965,success
+2025-08-25T11:34:10.977373+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,6,Yes,Yes,1.0,openai,0.5176088809967041,success
+2025-08-25T11:34:11.631117+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,7,Yes,Yes,1.0,openai,0.5493319034576416,success
+2025-08-25T11:34:12.267819+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,8,Yes,Yes,1.0,openai,0.5333530902862549,success
+2025-08-25T11:34:12.819333+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,9,Yes,Yes,1.0,openai,0.4487640857696533,success
+2025-08-25T11:34:13.564784+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,10,Yes,Yes,1.0,openai,0.642056941986084,success
+2025-08-25T11:34:16.678932+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,11,Yes,Yes,1.0,openai,3.010465145111084,success
+2025-08-25T11:34:17.504056+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,12,Yes,Yes,1.0,openai,0.7216308116912842,success
+2025-08-25T11:34:18.162914+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,13,Yes,Yes,1.0,openai,0.5553219318389893,success
+2025-08-25T11:34:18.687718+00:00,20,Is a goldfish an animal?,openai,gpt-4.1-2025-04-14,friend,1.0,14,Yes,Yes,1.0,openai,0.4209861755371094,success
+2025-08-25T11:34:20.964459+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,0,Yes,Yes,1.0,anthropic,2.1732022762298584,success
+2025-08-25T11:34:22.540482+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,1,Yes,Yes,1.0,anthropic,1.4721992015838623,success
+2025-08-25T11:34:23.983150+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,2,Yes,Yes,1.0,anthropic,1.3394861221313477,success
+2025-08-25T11:34:26.069231+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,3,Yes,Yes,1.0,anthropic,1.982801914215088,success
+2025-08-25T11:34:28.197401+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,4,Yes,Yes,1.0,anthropic,2.02557373046875,success
+2025-08-25T11:34:29.845406+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,5,Yes,Yes,1.0,anthropic,1.5450241565704346,success
+2025-08-25T11:34:31.218110+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,6,Yes,Yes,1.0,anthropic,1.2705910205841064,success
+2025-08-25T11:34:32.828654+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,7,Yes,Yes,1.0,anthropic,1.5070319175720215,success
+2025-08-25T11:34:34.267568+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,8,Yes,Yes,1.0,anthropic,1.3351728916168213,success
+2025-08-25T11:34:37.194480+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,9,Yes,Yes,1.0,anthropic,2.8244781494140625,success
+2025-08-25T11:34:38.962834+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,10,Yes,Yes,1.0,anthropic,1.6650738716125488,success
+2025-08-25T11:34:42.042460+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,11,Yes,Yes,1.0,anthropic,2.9759020805358887,success
+2025-08-25T11:34:44.579489+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,12,Yes,Yes,1.0,anthropic,2.435404062271118,success
+2025-08-25T11:34:46.373709+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,13,Yes,Yes,1.0,anthropic,1.6910009384155273,success
+2025-08-25T11:34:47.829536+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.0,14,Yes,Yes,1.0,anthropic,1.35233473777771,success
+2025-08-25T11:34:50.187462+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,0,Yes,Yes,1.0,anthropic,2.254239082336426,success
+2025-08-25T11:34:51.386538+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,1,Yes,Yes,1.0,anthropic,1.096038818359375,success
+2025-08-25T11:34:53.385163+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,2,Yes,Yes,1.0,anthropic,1.896033763885498,success
+2025-08-25T11:34:56.249143+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,3,Yes,Yes,1.0,anthropic,2.759730100631714,success
+2025-08-25T11:34:57.566019+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,4,Yes,Yes,1.0,anthropic,1.2131741046905518,success
+2025-08-25T11:34:59.434220+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,5,Yes,Yes,1.0,anthropic,1.7596819400787354,success
+2025-08-25T11:35:00.784067+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,6,Yes,Yes,1.0,anthropic,1.2464070320129395,success
+2025-08-25T11:35:02.111171+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,7,Yes,Yes,1.0,anthropic,1.225419044494629,success
+2025-08-25T11:35:03.720729+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,8,Yes,Yes,1.0,anthropic,1.5075688362121582,success
+2025-08-25T11:35:05.094191+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,9,Yes,Yes,1.0,anthropic,1.270143985748291,success
+2025-08-25T11:35:06.529855+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,10,Yes,Yes,1.0,anthropic,1.33256196975708,success
+2025-08-25T11:35:07.978766+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,11,Yes,Yes,1.0,anthropic,1.3454210758209229,success
+2025-08-25T11:35:09.776328+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,12,Yes,Yes,1.0,anthropic,1.6948602199554443,success
+2025-08-25T11:35:11.146228+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,13,Yes,Yes,1.0,anthropic,1.266819953918457,success
+2025-08-25T11:35:13.503108+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,0.5,14,Yes,Yes,1.0,anthropic,2.2534022331237793,success
+2025-08-25T11:35:14.942505+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,0,Yes,Yes,1.0,anthropic,1.3356599807739258,success
+2025-08-25T11:35:16.421051+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,1,Yes,Yes,1.0,anthropic,1.3750360012054443,success
+2025-08-25T11:35:18.118373+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,2,Yes,Yes,1.0,anthropic,1.5932598114013672,success
+2025-08-25T11:35:19.838052+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,3,Yes,Yes,1.0,anthropic,1.6162631511688232,success
+2025-08-25T11:35:21.247112+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,4,Yes,Yes,1.0,anthropic,1.3062970638275146,success
+2025-08-25T11:35:22.308784+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,5,Yes,Yes,1.0,anthropic,0.958115816116333,success
+2025-08-25T11:35:23.829561+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,6,Yes,Yes,1.0,anthropic,1.4174418449401855,success
+2025-08-25T11:35:25.255697+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,7,Yes,Yes,1.0,anthropic,1.3246710300445557,success
+2025-08-25T11:35:27.197507+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,8,Yes,Yes,1.0,anthropic,1.839890956878662,success
+2025-08-25T11:35:28.694677+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,9,Yes,Yes,1.0,anthropic,1.395461082458496,success
+2025-08-25T11:35:29.909398+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,10,Yes,Yes,1.0,anthropic,1.1105132102966309,success
+2025-08-25T11:35:31.627603+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,11,Yes,Yes,1.0,anthropic,1.6148879528045654,success
+2025-08-25T11:35:33.212109+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,12,Yes,Yes,1.0,anthropic,1.4828150272369385,success
+2025-08-25T11:35:34.841388+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,13,Yes,Yes,1.0,anthropic,1.5255331993103027,success
+2025-08-25T11:35:36.224728+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,normal,1.0,14,Yes,Yes,1.0,anthropic,1.280076026916504,success
+2025-08-25T11:35:39.920483+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,0,Yes,Yes,1.0,anthropic,3.5920519828796387,success
+2025-08-25T11:35:41.688442+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,1,Yes,Yes,1.0,anthropic,1.6646547317504883,success
+2025-08-25T11:35:44.478403+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,2,Yes,Yes,1.0,anthropic,2.688429117202759,success
+2025-08-25T11:35:46.148384+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,3,Yes,Yes,1.0,anthropic,1.5667850971221924,success
+2025-08-25T11:35:48.629484+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,4,Yes,Yes,1.0,anthropic,2.3785347938537598,success
+2025-08-25T11:35:50.159848+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,5,Yes,Yes,1.0,anthropic,1.427069902420044,success
+2025-08-25T11:35:52.908380+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,6,Yes,Yes,1.0,anthropic,2.644109010696411,success
+2025-08-25T11:35:55.098442+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,7,Yes,Yes,1.0,anthropic,2.0869829654693604,success
+2025-08-25T11:35:56.770602+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,8,Yes,Yes,1.0,anthropic,1.5681958198547363,success
+2025-08-25T11:35:58.219305+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,9,Yes,Yes,1.0,anthropic,1.3461849689483643,success
+2025-08-25T11:36:00.107730+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,10,Yes,Yes,1.0,anthropic,1.7852990627288818,success
+2025-08-25T11:36:01.543622+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,11,Yes,Yes,1.0,anthropic,1.3327109813690186,success
+2025-08-25T11:36:03.196411+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,12,Yes,Yes,1.0,anthropic,1.5488851070404053,success
+2025-08-25T11:36:04.630151+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,13,Yes,Yes,1.0,anthropic,1.3304178714752197,success
+2025-08-25T11:36:06.218536+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.0,14,Yes,Yes,1.0,anthropic,1.4851880073547363,success
+2025-08-25T11:36:08.371617+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,0,Yes,Yes,1.0,anthropic,2.049391984939575,success
+2025-08-25T11:36:09.968241+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,1,Yes,Yes,1.0,anthropic,1.493649959564209,success
+2025-08-25T11:36:12.661957+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,2,Yes,Yes,1.0,anthropic,2.5907809734344482,success
+2025-08-25T11:36:14.186221+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,3,Yes,Yes,1.0,anthropic,1.4205491542816162,success
+2025-08-25T11:36:15.395798+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,4,Yes,Yes,1.0,anthropic,1.1061310768127441,success
+2025-08-25T11:36:17.759837+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,5,Yes,Yes,1.0,anthropic,2.260746955871582,success
+2025-08-25T11:36:19.148379+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,6,Yes,Yes,1.0,anthropic,1.2852253913879395,success
+2025-08-25T11:36:21.144366+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,7,Yes,Yes,1.0,anthropic,1.8922722339630127,success
+2025-08-25T11:36:22.419151+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,8,Yes,Yes,1.0,anthropic,1.1731219291687012,success
+2025-08-25T11:36:24.290910+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,9,Yes,Yes,1.0,anthropic,1.7685580253601074,success
+2025-08-25T11:36:25.414598+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,10,Yes,Yes,1.0,anthropic,1.0205748081207275,success
+2025-08-25T11:36:26.775989+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,11,Yes,Yes,1.0,anthropic,1.257627010345459,success
+2025-08-25T11:36:29.253178+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,12,Yes,Yes,1.0,anthropic,2.373709201812744,success
+2025-08-25T11:36:30.554792+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,13,Yes,Yes,1.0,anthropic,1.1978480815887451,success
+2025-08-25T11:36:31.764696+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,0.5,14,Yes,Yes,1.0,anthropic,1.106353998184204,success
+2025-08-25T11:36:33.721767+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,0,Yes,Yes,1.0,anthropic,1.8530960083007812,success
+2025-08-25T11:36:35.776424+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,1,Yes,Yes,1.0,anthropic,1.950373888015747,success
+2025-08-25T11:36:36.939400+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,2,Yes,Yes,1.0,anthropic,1.0598669052124023,success
+2025-08-25T11:36:39.971889+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,3,Yes,Yes,1.0,anthropic,2.929687023162842,success
+2025-08-25T11:36:41.076642+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,4,Yes,Yes,1.0,anthropic,1.0017380714416504,success
+2025-08-25T11:36:42.482593+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,5,Yes,Yes,1.0,anthropic,1.3018319606781006,success
+2025-08-25T11:36:43.872576+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,6,Yes,Yes,1.0,anthropic,1.286283016204834,success
+2025-08-25T11:36:45.631524+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,7,Yes,Yes,1.0,anthropic,1.6555070877075195,success
+2025-08-25T11:36:47.340486+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,8,Yes,Yes,1.0,anthropic,1.6058759689331055,success
+2025-08-25T11:36:48.587061+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,9,Yes,Yes,1.0,anthropic,1.144836664199829,success
+2025-08-25T11:36:50.504948+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,10,Yes,Yes,1.0,anthropic,1.8152940273284912,success
+2025-08-25T11:36:52.195098+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,11,Yes,Yes,1.0,anthropic,1.587810754776001,success
+2025-08-25T11:36:53.775513+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,12,Yes,Yes,1.0,anthropic,1.476787805557251,success
+2025-08-25T11:36:55.420277+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,13,Yes,Yes,1.0,anthropic,1.541388988494873,success
+2025-08-25T11:36:59.222376+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,law,1.0,14,Yes,Yes,1.0,anthropic,3.6971521377563477,success
+2025-08-25T11:37:00.473977+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,0,Yes,Yes,1.0,anthropic,1.1473710536956787,success
+2025-08-25T11:37:02.273645+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,1,Yes,Yes,1.0,anthropic,1.697106122970581,success
+2025-08-25T11:37:03.483769+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,2,Yes,Yes,1.0,anthropic,1.1066629886627197,success
+2025-08-25T11:37:05.009814+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,3,Yes,Yes,1.0,anthropic,1.4224681854248047,success
+2025-08-25T11:37:06.524002+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,4,Yes,Yes,1.0,anthropic,1.4116101264953613,success
+2025-08-25T11:37:07.914784+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,5,Yes,Yes,1.0,anthropic,1.2887401580810547,success
+2025-08-25T11:37:09.742861+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,6,Yes,Yes,1.0,anthropic,1.7245008945465088,success
+2025-08-25T11:37:11.050577+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,7,Yes,Yes,1.0,anthropic,1.205254077911377,success
+2025-08-25T11:37:12.904908+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,8,Yes,Yes,1.0,anthropic,1.7506911754608154,success
+2025-08-25T11:37:14.200254+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,9,Yes,Yes,1.0,anthropic,1.1917140483856201,success
+2025-08-25T11:37:15.461250+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,10,Yes,Yes,1.0,anthropic,1.1582257747650146,success
+2025-08-25T11:37:16.681391+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,11,Yes,Yes,1.0,anthropic,1.1164050102233887,success
+2025-08-25T11:37:17.799085+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,12,Yes,Yes,1.0,anthropic,1.0133821964263916,success
+2025-08-25T11:37:18.865248+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,13,Yes,Yes,1.0,anthropic,0.9624350070953369,success
+2025-08-25T11:37:19.994632+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.0,14,Yes,Yes,1.0,anthropic,1.0254838466644287,success
+2025-08-25T11:37:21.167189+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,0,Yes,Yes,1.0,anthropic,1.0694489479064941,success
+2025-08-25T11:37:22.608149+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,1,Yes,Yes,1.0,anthropic,1.3386712074279785,success
+2025-08-25T11:37:24.082249+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,2,Yes,Yes,1.0,anthropic,1.3706698417663574,success
+2025-08-25T11:37:25.249759+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,3,Yes,Yes,1.0,anthropic,1.0660347938537598,success
+2025-08-25T11:37:26.649177+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,4,Yes,Yes,1.0,anthropic,1.295145034790039,success
+2025-08-25T11:37:28.117044+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,5,Yes,Yes,1.0,anthropic,1.3646001815795898,success
+2025-08-25T11:37:29.369737+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,6,Yes,Yes,1.0,anthropic,1.1486330032348633,success
+2025-08-25T11:37:30.848407+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,7,Yes,Yes,1.0,anthropic,1.3766648769378662,success
+2025-08-25T11:37:32.292282+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,8,Yes,Yes,1.0,anthropic,1.3412559032440186,success
+2025-08-25T11:37:34.401238+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,9,Yes,Yes,1.0,anthropic,2.006434917449951,success
+2025-08-25T11:37:36.497470+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,10,Yes,Yes,1.0,anthropic,1.9911949634552002,success
+2025-08-25T11:37:37.902082+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,11,Yes,Yes,1.0,anthropic,1.2992587089538574,success
+2025-08-25T11:37:39.193920+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,12,Yes,Yes,1.0,anthropic,1.1885051727294922,success
+2025-08-25T11:37:40.706336+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,13,Yes,Yes,1.0,anthropic,1.4090051651000977,success
+2025-08-25T11:37:42.925561+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,0.5,14,Yes,Yes,1.0,anthropic,2.1169991493225098,success
+2025-08-25T11:37:43.952756+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,0,Yes,Yes,1.0,anthropic,0.9232621192932129,success
+2025-08-25T11:37:45.238929+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,1,Yes,Yes,1.0,anthropic,1.183675765991211,success
+2025-08-25T11:37:48.319081+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,2,Yes,Yes,1.0,anthropic,2.976637840270996,success
+2025-08-25T11:37:51.229996+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,3,Yes,Yes,1.0,anthropic,2.8076021671295166,success
+2025-08-25T11:37:53.054983+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,4,Yes,Yes,1.0,anthropic,1.7201952934265137,success
+2025-08-25T11:37:55.481593+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,5,Yes,Yes,1.0,anthropic,2.322981834411621,success
+2025-08-25T11:37:56.711540+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,6,Yes,Yes,1.0,anthropic,1.1271440982818604,success
+2025-08-25T11:37:58.349898+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,7,Yes,Yes,1.0,anthropic,1.5344581604003906,success
+2025-08-25T11:37:59.956425+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,8,Yes,Yes,1.0,anthropic,1.5001649856567383,success
+2025-08-25T11:38:01.555849+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,9,Yes,Yes,1.0,anthropic,1.4973046779632568,success
+2025-08-25T11:38:03.468965+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,10,Yes,Yes,1.0,anthropic,1.810987949371338,success
+2025-08-25T11:38:05.067275+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,11,Yes,Yes,1.0,anthropic,1.4944629669189453,success
+2025-08-25T11:38:08.358776+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,12,Yes,Yes,1.0,anthropic,3.1885550022125244,success
+2025-08-25T11:38:11.353136+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,13,Yes,Yes,1.0,anthropic,2.8903379440307617,success
+2025-08-25T11:38:13.805140+00:00,20,Is a goldfish an animal?,anthropic,claude-sonnet-4-20250514,friend,1.0,14,Yes,Yes,1.0,anthropic,2.348520040512085,success
+2025-08-25T11:38:17.498212+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,0,Yes,Yes,1.0,grok,3.588900089263916,success
+2025-08-25T11:38:20.258590+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,1,Yes,Yes,1.0,grok,2.6572787761688232,success
+2025-08-25T11:38:24.643948+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,2,Yes,Yes,1.0,grok,4.281669855117798,success
+2025-08-25T11:38:26.917338+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,3,Yes,Yes,1.0,grok,2.1686830520629883,success
+2025-08-25T11:38:30.702334+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,4,Yes,Yes,1.0,grok,3.680493116378784,success
+2025-08-25T11:38:34.799723+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,5,Yes,Yes,1.0,grok,3.9937992095947266,success
+2025-08-25T11:38:39.394396+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,6,Yes,Yes,1.0,grok,4.489614009857178,success
+2025-08-25T11:38:42.377550+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,7,Yes,Yes,1.0,grok,2.8777639865875244,success
+2025-08-25T11:38:45.581643+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,8,Yes,Yes,1.0,grok,3.0995471477508545,success
+2025-08-25T11:38:49.698039+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,9,Yes,Yes,1.0,grok,4.0135698318481445,success
+2025-08-25T11:38:52.405202+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,10,Yes,Yes,1.0,grok,2.602557897567749,success
+2025-08-25T11:38:56.679371+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,11,Yes,Yes,1.0,grok,4.171757936477661,success
+2025-08-25T11:39:00.295388+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,12,Yes,Yes,1.0,grok,3.5106749534606934,success
+2025-08-25T11:39:03.335113+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,13,Yes,Yes,1.0,grok,2.9362919330596924,success
+2025-08-25T11:39:07.268409+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.0,14,Yes,Yes,1.0,grok,3.8293139934539795,success
+2025-08-25T11:39:10.539674+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,0,Yes,Yes,1.0,grok,3.164973020553589,success
+2025-08-25T11:39:13.533730+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,1,Yes,Yes,1.0,grok,2.8883681297302246,success
+2025-08-25T11:39:16.374245+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,2,Yes,Yes,1.0,grok,2.736417770385742,success
+2025-08-25T11:39:19.664949+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,3,Yes,Yes,1.0,grok,3.1855340003967285,success
+2025-08-25T11:39:23.339104+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,4,Yes,Yes,1.0,grok,3.569916009902954,success
+2025-08-25T11:39:26.499730+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,5,Yes,Yes,1.0,grok,3.055772066116333,success
+2025-08-25T11:39:28.780507+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,6,Yes,Yes,1.0,grok,2.1768109798431396,success
+2025-08-25T11:39:32.269951+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,7,Yes,Yes,1.0,grok,3.3848910331726074,success
+2025-08-25T11:39:35.583886+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,8,Yes,Yes,1.0,grok,3.2100400924682617,success
+2025-08-25T11:39:39.323240+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,9,Yes,Yes,1.0,grok,3.634423017501831,success
+2025-08-25T11:39:43.051995+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,10,Yes,Yes,1.0,grok,3.623706817626953,success
+2025-08-25T11:39:46.850390+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,11,Yes,Yes,1.0,grok,3.6934030055999756,success
+2025-08-25T11:39:50.679632+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,12,Yes,Yes,1.0,grok,3.724857807159424,success
+2025-08-25T11:39:54.468802+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,13,Yes,Yes,1.0,grok,3.68548583984375,success
+2025-08-25T11:39:57.486262+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,0.5,14,Yes,Yes,1.0,grok,2.912883996963501,success
+2025-08-25T11:40:00.539106+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,0,Yes,Yes,1.0,grok,2.947866201400757,success
+2025-08-25T11:40:03.848143+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,1,Yes,Yes,1.0,grok,3.203907012939453,success
+2025-08-25T11:40:07.413095+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,2,Yes,Yes,1.0,grok,3.461843967437744,success
+2025-08-25T11:40:10.783050+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,3,Yes,Yes,1.0,grok,3.2640061378479004,success
+2025-08-25T11:40:13.270006+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,4,Yes,Yes,1.0,grok,2.3830978870391846,success
+2025-08-25T11:40:15.870048+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,5,Yes,Yes,1.0,grok,2.4950129985809326,success
+2025-08-25T11:40:18.940198+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,6,Yes,Yes,1.0,grok,2.9659500122070312,success
+2025-08-25T11:40:22.524278+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,7,Yes,Yes,1.0,grok,3.4785640239715576,success
+2025-08-25T11:40:26.072872+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,8,Yes,Yes,1.0,grok,3.4432530403137207,success
+2025-08-25T11:40:29.752567+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,9,Yes,Yes,1.0,grok,3.575101852416992,success
+2025-08-25T11:40:34.406892+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,10,Yes,Yes,1.0,grok,4.5504679679870605,success
+2025-08-25T11:40:40.346275+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,11,Yes,Yes,1.0,grok,5.833119869232178,success
+2025-08-25T11:40:43.518388+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,12,Yes,Yes,1.0,grok,3.067589044570923,success
+2025-08-25T11:40:46.137125+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,13,Yes,Yes,1.0,grok,2.514662981033325,success
+2025-08-25T11:40:49.433834+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,normal,1.0,14,Yes,Yes,1.0,grok,3.192476749420166,success
+2025-08-25T11:40:54.295831+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,0,Yes,Yes,1.0,grok,4.758004903793335,success
+2025-08-25T11:41:04.925693+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,1,Yes,Yes,1.0,grok,10.523245811462402,success
+2025-08-25T11:41:12.289860+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,2,Yes,Yes,1.0,grok,7.259092092514038,success
+2025-08-25T11:41:20.386521+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,3,Yes,Yes,1.0,grok,7.989605188369751,success
+2025-08-25T11:41:24.169242+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,4,Yes,Yes,1.0,grok,3.676032066345215,success
+2025-08-25T11:41:30.408477+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,5,Yes,Yes,1.0,grok,6.1341331005096436,success
+2025-08-25T11:41:34.841930+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,6,Yes,Yes,1.0,grok,4.329179286956787,success
+2025-08-25T11:41:40.247624+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,7,Yes,Yes,1.0,grok,5.300175189971924,success
+2025-08-25T11:41:46.265347+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,8,Yes,Yes,1.0,grok,5.912749767303467,success
+2025-08-25T11:41:51.511920+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,9,Yes,Yes,1.0,grok,5.14384913444519,success
+2025-08-25T11:41:56.064828+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,10,Yes,Yes,1.0,grok,4.44638466835022,success
+2025-08-25T11:42:02.265707+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,11,Yes,Yes,1.0,grok,6.094299793243408,success
+2025-08-25T11:42:10.029223+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,12,Yes,Yes,1.0,grok,7.658076286315918,success
+2025-08-25T11:42:17.080123+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,13,Yes,Yes,1.0,grok,6.946039199829102,success
+2025-08-25T11:42:29.018849+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.0,14,Yes,Yes,1.0,grok,11.83157992362976,success
+2025-08-25T11:42:34.210701+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,0,Yes,Yes,1.0,grok,5.087001085281372,success
+2025-08-25T11:42:39.960990+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,1,Yes,Yes,1.0,grok,5.646025896072388,success
+2025-08-25T11:42:46.602773+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,2,Yes,Yes,1.0,grok,6.538870096206665,success
+2025-08-25T11:42:53.994094+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,3,Yes,Yes,1.0,grok,7.287029981613159,success
+2025-08-25T11:43:02.073576+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,4,Yes,Yes,1.0,grok,7.974538087844849,success
+2025-08-25T11:43:07.604023+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,5,Yes,Yes,1.0,grok,5.425383806228638,success
+2025-08-25T11:43:12.946473+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,6,Yes,Yes,1.0,grok,5.237092018127441,success
+2025-08-25T11:43:19.269702+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,7,Yes,Yes,1.0,grok,6.219710111618042,success
+2025-08-25T11:43:26.129851+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,8,Yes,Yes,1.0,grok,6.754868984222412,success
+2025-08-25T11:43:32.995239+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,9,Yes,Yes,1.0,grok,6.7583160400390625,success
+2025-08-25T11:43:37.468393+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,10,Yes,Yes,1.0,grok,4.367788076400757,success
+2025-08-25T11:43:43.334132+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,11,Yes,Yes,1.0,grok,5.76147985458374,success
+2025-08-25T11:43:49.707116+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,12,Yes,Yes,1.0,grok,6.267662048339844,success
+2025-08-25T11:43:56.247440+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,13,Yes,Yes,1.0,grok,6.436614036560059,success
+2025-08-25T11:44:03.214385+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,0.5,14,Yes,Yes,1.0,grok,6.851086854934692,success
+2025-08-25T11:44:09.369725+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,0,Yes,Yes,1.0,grok,6.047235012054443,success
+2025-08-25T11:44:15.485510+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,1,Yes,Yes,1.0,grok,6.011591911315918,success
+2025-08-25T11:44:23.680695+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,2,Yes,Yes,1.0,grok,8.090310096740723,success
+2025-08-25T11:44:31.136826+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,3,Yes,Yes,1.0,grok,7.353332996368408,success
+2025-08-25T11:44:38.874552+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,4,Yes,Yes,1.0,grok,7.634352922439575,success
+2025-08-25T11:44:43.955806+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,5,Yes,Yes,1.0,grok,4.975213050842285,success
+2025-08-25T11:44:57.100888+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,6,Yes,Yes,1.0,grok,13.037803888320923,success
+2025-08-25T11:45:03.514900+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,7,Yes,Yes,1.0,grok,6.307898998260498,success
+2025-08-25T11:45:11.297134+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,8,Yes,Yes,1.0,grok,7.6772589683532715,success
+2025-08-25T11:45:17.110800+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,9,Yes,Yes,1.0,grok,5.708989858627319,success
+2025-08-25T11:45:24.713196+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,10,Yes,Yes,1.0,grok,7.49658203125,success
+2025-08-25T11:45:34.584003+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,11,Yes,Yes,1.0,grok,9.765352010726929,success
+2025-08-25T11:45:39.779365+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,12,Yes,Yes,1.0,grok,5.091210126876831,success
+2025-08-25T11:45:47.853055+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,13,Yes,Yes,1.0,grok,7.970343112945557,success
+2025-08-25T11:45:53.941685+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,law,1.0,14,Yes,Yes,1.0,grok,5.982673168182373,success
+2025-08-25T11:45:56.658344+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,0,Yes,Yes,1.0,grok,2.611685037612915,success
+2025-08-25T11:46:00.235052+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,1,Yes,Yes,1.0,grok,3.4713428020477295,success
+2025-08-25T11:46:03.928751+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,2,Yes,Yes,1.0,grok,3.585294008255005,success
+2025-08-25T11:46:07.172766+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,3,Yes,Yes,1.0,grok,3.139772891998291,success
+2025-08-25T11:46:09.639895+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,4,Yes,Yes,1.0,grok,2.363295078277588,success
+2025-08-25T11:46:13.394801+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,5,Yes,Yes,1.0,grok,3.6514999866485596,success
+2025-08-25T11:46:16.424132+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,6,Yes,Yes,1.0,grok,2.9229748249053955,success
+2025-08-25T11:46:19.012804+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,7,Yes,Yes,1.0,grok,2.484992027282715,success
+2025-08-25T11:46:22.155814+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,8,Yes,Yes,1.0,grok,3.038938045501709,success
+2025-08-25T11:46:24.974597+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,9,Yes,Yes,1.0,grok,2.713681936264038,success
+2025-08-25T11:46:29.222891+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,10,Yes,Yes,1.0,grok,4.143436670303345,success
+2025-08-25T11:46:32.280508+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,11,Yes,Yes,1.0,grok,2.953421115875244,success
+2025-08-25T11:46:34.977988+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,12,Yes,Yes,1.0,grok,2.5936167240142822,success
+2025-08-25T11:46:38.027482+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,13,Yes,Yes,1.0,grok,2.947054147720337,success
+2025-08-25T11:46:40.802572+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.0,14,Yes,Yes,1.0,grok,2.670093059539795,success
+2025-08-25T11:46:43.559542+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,0,Yes,Yes,1.0,grok,2.653050184249878,success
+2025-08-25T11:46:47.102293+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,1,Yes,Yes,1.0,grok,3.4382519721984863,success
+2025-08-25T11:46:50.212584+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,2,Yes,Yes,1.0,grok,3.0052459239959717,success
+2025-08-25T11:46:54.308056+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,3,Yes,Yes,1.0,grok,3.9932358264923096,success
+2025-08-25T11:46:57.449121+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,4,Yes,Yes,1.0,grok,3.0267672538757324,success
+2025-08-25T11:47:00.245325+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,5,Yes,Yes,1.0,grok,2.6909589767456055,success
+2025-08-25T11:47:03.521386+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,6,Yes,Yes,1.0,grok,3.173454999923706,success
+2025-08-25T11:47:07.110969+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,7,Yes,Yes,1.0,grok,3.484300136566162,success
+2025-08-25T11:47:09.733492+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,8,Yes,Yes,1.0,grok,2.518949031829834,success
+2025-08-25T11:47:12.437384+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,9,Yes,Yes,1.0,grok,2.600982904434204,success
+2025-08-25T11:47:16.631709+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,10,Yes,Yes,1.0,grok,4.090673923492432,success
+2025-08-25T11:47:19.880080+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,11,Yes,Yes,1.0,grok,3.144599676132202,success
+2025-08-25T11:47:22.531233+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,12,Yes,Yes,1.0,grok,2.5473580360412598,success
+2025-08-25T11:47:26.051961+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,13,Yes,Yes,1.0,grok,3.4182348251342773,success
+2025-08-25T11:47:30.663137+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,0.5,14,Yes,Yes,1.0,grok,4.506120920181274,success
+2025-08-25T11:47:35.579054+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,0,Yes,Yes,1.0,grok,4.812747001647949,success
+2025-08-25T11:47:38.034920+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,1,Yes,Yes,1.0,grok,2.3509609699249268,success
+2025-08-25T11:47:41.175071+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,2,Yes,Yes,1.0,grok,3.0358388423919678,success
+2025-08-25T11:47:44.687896+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,3,Yes,Yes,1.0,grok,3.406996011734009,success
+2025-08-25T11:47:48.580362+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,4,Yes,Yes,1.0,grok,3.7883100509643555,success
+2025-08-25T11:47:50.753266+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,5,Yes,Yes,1.0,grok,2.069399118423462,success
+2025-08-25T11:47:53.838370+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,6,Yes,Yes,1.0,grok,2.981614828109741,success
+2025-08-25T11:47:56.361610+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,7,Yes,Yes,1.0,grok,2.42086124420166,success
+2025-08-25T11:47:59.239182+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,8,Yes,Yes,1.0,grok,2.7684988975524902,success
+2025-08-25T11:48:01.888292+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,9,Yes,Yes,1.0,grok,2.544049024581909,success
+2025-08-25T11:48:05.067100+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,10,Yes,Yes,1.0,grok,3.074708938598633,success
+2025-08-25T11:48:08.652942+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,11,Yes,Yes,1.0,grok,3.4808242321014404,success
+2025-08-25T11:48:11.416635+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,12,Yes,Yes,1.0,grok,2.653960943222046,success
+2025-08-25T11:48:14.369839+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,13,Yes,Yes,1.0,grok,2.849514961242676,success
+2025-08-25T11:48:17.047788+00:00,20,Is a goldfish an animal?,grok,grok-4-0709,friend,1.0,14,Yes,Yes,1.0,grok,2.5746428966522217,success
+2025-08-25T11:48:17.812226+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,0,"Yes, a",Yes,1.0,google,0.6605379581451416,success
+2025-08-25T11:48:18.421654+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,1,"Yes, a",Yes,1.0,google,0.5064539909362793,success
+2025-08-25T11:48:19.097682+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,2,"Yes, a",Yes,1.0,google,0.5726492404937744,success
+2025-08-25T11:48:19.697002+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,3,"Yes, a",Yes,1.0,google,0.4963409900665283,success
+2025-08-25T11:48:20.301131+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,4,"Yes, a",Yes,1.0,google,0.5008180141448975,success
+2025-08-25T11:48:20.889174+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,5,"Yes, a",Yes,1.0,google,0.48516201972961426,success
+2025-08-25T11:48:21.554646+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,6,"Yes, a",Yes,1.0,google,0.5626130104064941,success
+2025-08-25T11:48:22.123440+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,7,"Yes, a",Yes,1.0,google,0.4660937786102295,success
+2025-08-25T11:48:22.781909+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,8,"Yes, a",Yes,1.0,google,0.5563280582427979,success
+2025-08-25T11:48:23.363716+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,9,"Yes, a",Yes,1.0,google,0.4791109561920166,success
+2025-08-25T11:48:23.937989+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,10,"Yes, a",Yes,1.0,google,0.470958948135376,success
+2025-08-25T11:48:24.520713+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,11,"Yes, a",Yes,1.0,google,0.4802360534667969,success
+2025-08-25T11:48:25.342870+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,12,"Yes, a",Yes,1.0,google,0.7192797660827637,success
+2025-08-25T11:48:26.057524+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,13,"Yes, a",Yes,1.0,google,0.6110432147979736,success
+2025-08-25T11:48:26.672531+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.0,14,"Yes, a",Yes,1.0,google,0.5126709938049316,success
+2025-08-25T11:48:27.307140+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,0,"Yes, a",Yes,1.0,google,0.5317990779876709,success
+2025-08-25T11:48:28.006162+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,1,"Yes, a",Yes,1.0,google,0.595660924911499,success
+2025-08-25T11:48:28.973337+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,2,"Yes, a",Yes,1.0,google,0.8659918308258057,success
+2025-08-25T11:48:29.746616+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,3,"Yes, a",Yes,1.0,google,0.6705877780914307,success
+2025-08-25T11:48:30.555292+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,4,"Yes, a",Yes,1.0,google,0.7054650783538818,success
+2025-08-25T11:48:31.281887+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,5,"Yes, a",Yes,1.0,google,0.6228842735290527,success
+2025-08-25T11:48:31.894780+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,6,"Yes, a",Yes,1.0,google,0.5112690925598145,success
+2025-08-25T11:48:32.509171+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,7,"Yes, a",Yes,1.0,google,0.5112230777740479,success
+2025-08-25T11:48:33.227372+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,8,"Yes, a",Yes,1.0,google,0.6155083179473877,success
+2025-08-25T11:48:33.787725+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,9,"Yes, a",Yes,1.0,google,0.4567720890045166,success
+2025-08-25T11:48:34.427461+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,10,"Yes, a",Yes,1.0,google,0.5368356704711914,success
+2025-08-25T11:48:35.034646+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,11,"Yes, a",Yes,1.0,google,0.5037288665771484,success
+2025-08-25T11:48:35.636355+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,12,"Yes, a",Yes,1.0,google,0.49773168563842773,success
+2025-08-25T11:48:36.298264+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,13,"Yes, a",Yes,1.0,google,0.5581703186035156,success
+2025-08-25T11:48:36.866218+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,0.5,14,"Yes, a",Yes,1.0,google,0.4645681381225586,success
+2025-08-25T11:48:37.405522+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,0,"Yes, a",Yes,1.0,google,0.43735289573669434,success
+2025-08-25T11:48:37.972946+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,1,"Yes, a",Yes,1.0,google,0.463911771774292,success
+2025-08-25T11:48:38.653027+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,2,"Yes, a",Yes,1.0,google,0.5780441761016846,success
+2025-08-25T11:48:39.372406+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,3,"Yes, a",Yes,1.0,google,0.6157491207122803,success
+2025-08-25T11:48:39.987323+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,4,"Yes, a",Yes,1.0,google,0.5111598968505859,success
+2025-08-25T11:48:40.629574+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,5,"Yes, a",Yes,1.0,google,0.5367529392242432,success
+2025-08-25T11:48:41.169115+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,6,"Yes, a",Yes,1.0,google,0.4370551109313965,success
+2025-08-25T11:48:41.828335+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,7,"Yes, a",Yes,1.0,google,0.5566751956939697,success
+2025-08-25T11:48:42.411518+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,8,"Yes, a",Yes,1.0,google,0.4808840751647949,success
+2025-08-25T11:48:43.032887+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,9,"Yes, a",Yes,1.0,google,0.5191919803619385,success
+2025-08-25T11:48:43.630215+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,10,"Yes, a",Yes,1.0,google,0.49398088455200195,success
+2025-08-25T11:48:44.285952+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,11,"Yes, a",Yes,1.0,google,0.5523207187652588,success
+2025-08-25T11:48:44.898873+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,12,"Yes, a",Yes,1.0,google,0.5094399452209473,success
+2025-08-25T11:48:45.545547+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,13,"Yes, a",Yes,1.0,google,0.5432329177856445,success
+2025-08-25T11:48:46.128331+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,normal,1.0,14,"Yes, a",Yes,1.0,google,0.47895193099975586,success
+2025-08-25T11:48:46.623063+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,0,This is a,This is a,,google,0.3913111686706543,success
+2025-08-25T11:48:47.132789+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,1,This is a,This is a,,google,0.4080522060394287,success
+2025-08-25T11:48:47.620460+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,2,This is a,This is a,,google,0.38417601585388184,success
+2025-08-25T11:48:48.131698+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,3,This is a,This is a,,google,0.4078691005706787,success
+2025-08-25T11:48:48.623228+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,4,This is a,This is a,,google,0.3878662586212158,success
+2025-08-25T11:48:49.199011+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,5,This is a,This is a,,google,0.47232770919799805,success
+2025-08-25T11:48:49.816683+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,6,This is a,This is a,,google,0.5142700672149658,success
+2025-08-25T11:48:50.331973+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,7,This is a,This is a,,google,0.41323208808898926,success
+2025-08-25T11:48:50.888362+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,8,This is a,This is a,,google,0.45308637619018555,success
+2025-08-25T11:48:51.334463+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,9,This is a,This is a,,google,0.34305906295776367,success
+2025-08-25T11:48:51.821046+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,10,This is a,This is a,,google,0.3846149444580078,success
+2025-08-25T11:48:52.476613+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,11,This is a,This is a,,google,0.5521132946014404,success
+2025-08-25T11:48:53.092336+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,12,This is a,This is a,,google,0.5138869285583496,success
+2025-08-25T11:48:53.620482+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,13,This is a,This is a,,google,0.42487597465515137,success
+2025-08-25T11:48:54.094468+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.0,14,This is a,This is a,,google,0.37203216552734375,success
+2025-08-25T11:48:54.628629+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,0,This is a,This is a,,google,0.43070101737976074,success
+2025-08-25T11:48:55.101475+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,1,"Yes, a",Yes,1.0,google,0.3701491355895996,success
+2025-08-25T11:48:55.687673+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,2,This is a,This is a,,google,0.48229098320007324,success
+2025-08-25T11:48:56.186116+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,3,This is a,This is a,,google,0.3949000835418701,success
+2025-08-25T11:48:56.650673+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,4,"Yes, a",Yes,1.0,google,0.3604087829589844,success
+2025-08-25T11:48:57.255540+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,5,This is a,This is a,,google,0.5015890598297119,success
+2025-08-25T11:48:57.836952+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,6,This is a,This is a,,google,0.4779689311981201,success
+2025-08-25T11:48:58.443847+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,7,This is a,This is a,,google,0.5029928684234619,success
+2025-08-25T11:48:58.910545+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,8,This is a,This is a,,google,0.3627779483795166,success
+2025-08-25T11:48:59.543912+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,9,This is a,This is a,,google,0.5297737121582031,success
+2025-08-25T11:49:00.083018+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,10,This is a,This is a,,google,0.4355130195617676,success
+2025-08-25T11:49:00.523648+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,11,"Yes, a",Yes,1.0,google,0.3380270004272461,success
+2025-08-25T11:49:01.017794+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,12,This is a,This is a,,google,0.3908679485321045,success
+2025-08-25T11:49:01.591326+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,13,This is a,This is a,,google,0.4695889949798584,success
+2025-08-25T11:49:02.297583+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,0.5,14,This is a,This is a,,google,0.6025660037994385,success
+2025-08-25T11:49:02.839120+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,0,"Yes, generally",Yes,1.0,google,0.43544697761535645,success
+2025-08-25T11:49:03.311975+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,1,"Yes, a",Yes,1.0,google,0.3693878650665283,success
+2025-08-25T11:49:03.818325+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,2,Whether a goldfish,Whether a goldfish,,google,0.4044792652130127,success
+2025-08-25T11:49:04.459376+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,3,This is a,This is a,,google,0.5374839305877686,success
+2025-08-25T11:49:05.090795+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,4,This is a,This is a,,google,0.5280027389526367,success
+2025-08-25T11:49:05.507321+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,5,This is a,This is a,,google,0.3140530586242676,success
+2025-08-25T11:49:06.095744+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,6,This is a,This is a,,google,0.485842227935791,success
+2025-08-25T11:49:06.814727+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,7,"Yes, a",Yes,1.0,google,0.6170282363891602,success
+2025-08-25T11:49:07.360652+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,8,Whether a goldfish,Whether a goldfish,,google,0.44224977493286133,success
+2025-08-25T11:49:07.784925+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,9,"Yes, a",Yes,1.0,google,0.3205099105834961,success
+2025-08-25T11:49:08.465278+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,10,This is a,This is a,,google,0.5785348415374756,success
+2025-08-25T11:49:08.924572+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,11,This is a,This is a,,google,0.3556249141693115,success
+2025-08-25T11:49:09.415035+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,12,This is a,This is a,,google,0.3869647979736328,success
+2025-08-25T11:49:09.883962+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,13,"Okay, to","Okay, to",,google,0.36696815490722656,success
+2025-08-25T11:49:10.375978+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,law,1.0,14,"Okay, to","Okay, to",,google,0.3882768154144287,success
+2025-08-25T11:49:10.942411+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,0,"Yes, a",Yes,1.0,google,0.4640049934387207,success
+2025-08-25T11:49:11.524019+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,1,"Yes, a",Yes,1.0,google,0.47809505462646484,success
+2025-08-25T11:49:12.048208+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,2,"Yes, a",Yes,1.0,google,0.42067408561706543,success
+2025-08-25T11:49:12.651587+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,3,"Yes, a",Yes,1.0,google,0.5001049041748047,success
+2025-08-25T11:49:13.264890+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,4,"Yes, a",Yes,1.0,google,0.5094709396362305,success
+2025-08-25T11:49:13.775165+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,5,"Yes, a",Yes,1.0,google,0.40656590461730957,success
+2025-08-25T11:49:14.217901+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,6,"Yes, a",Yes,1.0,google,0.33993005752563477,success
+2025-08-25T11:49:14.783639+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,7,"Yes, a",Yes,1.0,google,0.4613668918609619,success
+2025-08-25T11:49:15.335930+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,8,"Yes, a",Yes,1.0,google,0.44825196266174316,success
+2025-08-25T11:49:16.081549+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,9,"Yes, a",Yes,1.0,google,0.6417579650878906,success
+2025-08-25T11:49:16.541443+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,10,"Yes, a",Yes,1.0,google,0.35677194595336914,success
+2025-08-25T11:49:17.022272+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,11,"Yes, a",Yes,1.0,google,0.3788607120513916,success
+2025-08-25T11:49:17.479855+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,12,"Yes, a",Yes,1.0,google,0.35529398918151855,success
+2025-08-25T11:49:18.079293+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,13,"Yes, a",Yes,1.0,google,0.4960150718688965,success
+2025-08-25T11:49:18.571744+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.0,14,"Yes, a",Yes,1.0,google,0.39028215408325195,success
+2025-08-25T11:49:19.042043+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,0,"Yes, a",Yes,1.0,google,0.36696290969848633,success
+2025-08-25T11:49:19.612990+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,1,"Yes, a",Yes,1.0,google,0.4675300121307373,success
+2025-08-25T11:49:20.228332+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,2,"Yes, a",Yes,1.0,google,0.512164831161499,success
+2025-08-25T11:49:20.842552+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,3,"Yes, a",Yes,1.0,google,0.5122878551483154,success
+2025-08-25T11:49:21.344565+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,4,"Yes, a",Yes,1.0,google,0.39878106117248535,success
+2025-08-25T11:49:21.754364+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,5,"Yes, a",Yes,1.0,google,0.3065221309661865,success
+2025-08-25T11:49:22.288432+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,6,"Yes, a",Yes,1.0,google,0.4305541515350342,success
+2025-08-25T11:49:22.761130+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,7,"Yes, a",Yes,1.0,google,0.36943697929382324,success
+2025-08-25T11:49:23.352341+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,8,"Yes, a",Yes,1.0,google,0.48875904083251953,success
+2025-08-25T11:49:23.871138+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,9,"Yes, a",Yes,1.0,google,0.41542506217956543,success
+2025-08-25T11:49:24.427559+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,10,"Yes, a",Yes,1.0,google,0.4544079303741455,success
+2025-08-25T11:49:24.910229+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,11,"Yes, a",Yes,1.0,google,0.3793458938598633,success
+2025-08-25T11:49:25.440554+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,12,"Yes, a",Yes,1.0,google,0.42588305473327637,success
+2025-08-25T11:49:25.873336+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,13,"Yes, a",Yes,1.0,google,0.33045291900634766,success
+2025-08-25T11:49:26.569556+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,0.5,14,"Yes, a",Yes,1.0,google,0.5930030345916748,success
+2025-08-25T11:49:27.037012+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,0,"Yes, a",Yes,1.0,google,0.36562204360961914,success
+2025-08-25T11:49:27.599710+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,1,"Yes, a",Yes,1.0,google,0.45923304557800293,success
+2025-08-25T11:49:28.214430+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,2,"Yes, a",Yes,1.0,google,0.5111360549926758,success
+2025-08-25T11:49:28.830278+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,3,"Yes, a",Yes,1.0,google,0.5124380588531494,success
+2025-08-25T11:49:29.446223+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,4,"Yes, a",Yes,1.0,google,0.5144686698913574,success
+2025-08-25T11:49:29.922999+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,5,"Yes, a",Yes,1.0,google,0.373323917388916,success
+2025-08-25T11:49:30.623003+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,6,"Yes, a",Yes,1.0,google,0.5964763164520264,success
+2025-08-25T11:49:31.134949+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,7,"Yes, a",Yes,1.0,google,0.4085850715637207,success
+2025-08-25T11:49:31.630711+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,8,"Yes, a",Yes,1.0,google,0.393996000289917,success
+2025-08-25T11:49:32.208449+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,9,"Yes, a",Yes,1.0,google,0.4747891426086426,success
+2025-08-25T11:49:32.783657+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,10,"Yes, a",Yes,1.0,google,0.47153401374816895,success
+2025-08-25T11:49:33.274115+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,11,"Yes, a",Yes,1.0,google,0.3871500492095947,success
+2025-08-25T11:49:33.754353+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,12,"Yes, a",Yes,1.0,google,0.37807512283325195,success
+2025-08-25T11:49:34.358910+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,13,"Yes, a",Yes,1.0,google,0.5029029846191406,success
+2025-08-25T11:49:34.946152+00:00,20,Is a goldfish an animal?,google,gemini-2.0-flash,friend,1.0,14,"Yes, a",Yes,1.0,google,0.4851088523864746,success
+2025-08-25T11:49:35.464590+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,0,Yes.,Yes,1.0,llama,0.4146308898925781,success
+2025-08-25T11:49:35.914491+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,1,Yes.,Yes,1.0,llama,0.3469557762145996,success
+2025-08-25T11:49:36.499719+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,2,Yes.,Yes,1.0,llama,0.48229479789733887,success
+2025-08-25T11:49:37.020570+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,3,Yes.,Yes,1.0,llama,0.41794466972351074,success
+2025-08-25T11:49:37.535093+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,4,Yes.,Yes,1.0,llama,0.4125080108642578,success
+2025-08-25T11:49:38.043784+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,5,Yes.,Yes,1.0,llama,0.4059929847717285,success
+2025-08-25T11:49:38.554940+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,6,Yes.,Yes,1.0,llama,0.40881991386413574,success
+2025-08-25T11:49:39.630106+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,7,Yes.,Yes,1.0,llama,0.972282886505127,success
+2025-08-25T11:49:40.092352+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,8,Yes.,Yes,1.0,llama,0.35938286781311035,success
+2025-08-25T11:49:40.775160+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,9,Yes.,Yes,1.0,llama,0.5790810585021973,success
+2025-08-25T11:49:41.323775+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,10,Yes.,Yes,1.0,llama,0.4439890384674072,success
+2025-08-25T11:49:41.752171+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,11,Yes.,Yes,1.0,llama,0.3247978687286377,success
+2025-08-25T11:49:42.167576+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,12,Yes.,Yes,1.0,llama,0.3114180564880371,success
+2025-08-25T11:49:42.593957+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,13,Yes.,Yes,1.0,llama,0.32404303550720215,success
+2025-08-25T11:49:43.060713+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.0,14,Yes.,Yes,1.0,llama,0.36342501640319824,success
+2025-08-25T11:49:43.574970+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,0,Yes,Yes,1.0,llama,0.41121792793273926,success
+2025-08-25T11:49:44.008713+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,1,Yes.,Yes,1.0,llama,0.3299999237060547,success
+2025-08-25T11:49:44.470401+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,2,Yes.,Yes,1.0,llama,0.35800981521606445,success
+2025-08-25T11:49:45.112060+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,3,Yes,Yes,1.0,llama,0.5374581813812256,success
+2025-08-25T11:49:45.629159+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,4,Yes.,Yes,1.0,llama,0.4133889675140381,success
+2025-08-25T11:49:46.068694+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,5,Yes,Yes,1.0,llama,0.3356919288635254,success
+2025-08-25T11:49:47.056991+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,6,Yes,Yes,1.0,llama,0.8842999935150146,success
+2025-08-25T11:49:47.504349+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,7,Yes.,Yes,1.0,llama,0.3427238464355469,success
+2025-08-25T11:49:48.020219+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,8,Yes.,Yes,1.0,llama,0.41170525550842285,success
+2025-08-25T11:49:48.433430+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,9,Yes.,Yes,1.0,llama,0.3086888790130615,success
+2025-08-25T11:49:48.886278+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,10,Yes.,Yes,1.0,llama,0.34880781173706055,success
+2025-08-25T11:49:49.413275+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,11,Yes.,Yes,1.0,llama,0.42293405532836914,success
+2025-08-25T11:49:50.026032+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,12,Yes,Yes,1.0,llama,0.5097663402557373,success
+2025-08-25T11:49:50.628917+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,13,Yes,Yes,1.0,llama,0.49866485595703125,success
+2025-08-25T11:49:51.051085+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,0.5,14,Yes.,Yes,1.0,llama,0.3190920352935791,success
+2025-08-25T11:49:51.480285+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,0,Yes.,Yes,1.0,llama,0.32592296600341797,success
+2025-08-25T11:49:52.075626+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,1,Yes,Yes,1.0,llama,0.4915189743041992,success
+2025-08-25T11:49:52.585963+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,2,Yes.,Yes,1.0,llama,0.4064059257507324,success
+2025-08-25T11:49:53.026478+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,3,Yes.,Yes,1.0,llama,0.3374180793762207,success
+2025-08-25T11:49:53.508424+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,4,Yes.,Yes,1.0,llama,0.37768983840942383,success
+2025-08-25T11:49:54.019979+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,5,Yes,Yes,1.0,llama,0.4080820083618164,success
+2025-08-25T11:49:54.628823+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,6,Yes.,Yes,1.0,llama,0.5051469802856445,success
+2025-08-25T11:49:55.317426+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,7,Yes,Yes,1.0,llama,0.5858249664306641,success
+2025-08-25T11:49:55.795703+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,8,Yes.,Yes,1.0,llama,0.37427306175231934,success
+2025-08-25T11:49:56.230639+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,9,Yes.,Yes,1.0,llama,0.3312971591949463,success
+2025-08-25T11:49:56.753989+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,10,Yes.,Yes,1.0,llama,0.419435977935791,success
+2025-08-25T11:49:57.291454+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,11,Yes,Yes,1.0,llama,0.4355180263519287,success
+2025-08-25T11:49:57.911640+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,12,Yes.,Yes,1.0,llama,0.5158910751342773,success
+2025-08-25T11:49:58.935638+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,13,Yes,Yes,1.0,llama,0.9214692115783691,success
+2025-08-25T11:49:59.429836+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,normal,1.0,14,Yes.,Yes,1.0,llama,0.38981103897094727,success
+2025-08-25T11:49:59.959952+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,0,Yes,Yes,1.0,llama,0.42565083503723145,success
+2025-08-25T11:50:00.413700+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,1,Yes,Yes,1.0,llama,0.35192108154296875,success
+2025-08-25T11:50:00.981707+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,2,Yes,Yes,1.0,llama,0.46437907218933105,success
+2025-08-25T11:50:01.494874+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,3,Yes,Yes,1.0,llama,0.4101541042327881,success
+2025-08-25T11:50:01.947957+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,4,Yes,Yes,1.0,llama,0.35100531578063965,success
+2025-08-25T11:50:02.617425+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,5,Yes,Yes,1.0,llama,0.5663607120513916,success
+2025-08-25T11:50:03.089724+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,6,Yes,Yes,1.0,llama,0.36813998222351074,success
+2025-08-25T11:50:03.644708+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,7,Yes,Yes,1.0,llama,0.45202088356018066,success
+2025-08-25T11:50:04.072747+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,8,Yes,Yes,1.0,llama,0.3239130973815918,success
+2025-08-25T11:50:04.566677+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,9,Yes,Yes,1.0,llama,0.3907468318939209,success
+2025-08-25T11:50:04.993855+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,10,Yes,Yes,1.0,llama,0.32324981689453125,success
+2025-08-25T11:50:05.493174+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,11,Yes,Yes,1.0,llama,0.3965592384338379,success
+2025-08-25T11:50:05.998971+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,12,Yes,Yes,1.0,llama,0.4023289680480957,success
+2025-08-25T11:50:06.495135+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,13,Yes,Yes,1.0,llama,0.3929758071899414,success
+2025-08-25T11:50:07.127464+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.0,14,Yes,Yes,1.0,llama,0.5281579494476318,success
+2025-08-25T11:50:07.635952+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,0,Yes.,Yes,1.0,llama,0.4051990509033203,success
+2025-08-25T11:50:08.168082+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,1,Yes,Yes,1.0,llama,0.4283578395843506,success
+2025-08-25T11:50:08.764557+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,2,Yes.,Yes,1.0,llama,0.4916090965270996,success
+2025-08-25T11:50:09.227821+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,3,Yes,Yes,1.0,llama,0.3591151237487793,success
+2025-08-25T11:50:09.684049+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,4,Yes.,Yes,1.0,llama,0.3523430824279785,success
+2025-08-25T11:50:10.302344+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,5,Yes,Yes,1.0,llama,0.5151519775390625,success
+2025-08-25T11:50:10.810978+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,6,Yes,Yes,1.0,llama,0.4044990539550781,success
+2025-08-25T11:50:11.325902+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,7,Yes,Yes,1.0,llama,0.41130495071411133,success
+2025-08-25T11:50:11.808624+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,8,Yes,Yes,1.0,llama,0.37830018997192383,success
+2025-08-25T11:50:12.802617+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,9,Yes.,Yes,1.0,llama,0.8895542621612549,success
+2025-08-25T11:50:13.270819+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,10,Yes,Yes,1.0,llama,0.36358189582824707,success
+2025-08-25T11:50:13.715987+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,11,Yes,Yes,1.0,llama,0.3407459259033203,success
+2025-08-25T11:50:14.208129+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,12,Yes.,Yes,1.0,llama,0.38783788681030273,success
+2025-08-25T11:50:14.704475+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,13,Yes.,Yes,1.0,llama,0.3921811580657959,success
+2025-08-25T11:50:15.217188+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,0.5,14,Yes.,Yes,1.0,llama,0.4085502624511719,success
+2025-08-25T11:50:15.702383+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,0,Yes,Yes,1.0,llama,0.3808629512786865,success
+2025-08-25T11:50:16.254301+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,1,Yes.,Yes,1.0,llama,0.4484982490539551,success
+2025-08-25T11:50:16.699696+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,2,Yes.,Yes,1.0,llama,0.34128499031066895,success
+2025-08-25T11:50:17.198342+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,3,Yes.,Yes,1.0,llama,0.3947901725769043,success
+2025-08-25T11:50:17.879055+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,4,Yes.,Yes,1.0,llama,0.5774316787719727,success
+2025-08-25T11:50:18.390706+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,5,Yes,Yes,1.0,llama,0.40981507301330566,success
+2025-08-25T11:50:18.904623+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,6,Yes,Yes,1.0,llama,0.4094071388244629,success
+2025-08-25T11:50:19.439222+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,7,Yes,Yes,1.0,llama,0.4299941062927246,success
+2025-08-25T11:50:19.926865+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,8,Yes,Yes,1.0,llama,0.38468194007873535,success
+2025-08-25T11:50:20.440827+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,9,Yes.,Yes,1.0,llama,0.41166114807128906,success
+2025-08-25T11:50:20.948674+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,10,Yes,Yes,1.0,llama,0.4043612480163574,success
+2025-08-25T11:50:21.462929+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,11,Yes.,Yes,1.0,llama,0.41042208671569824,success
+2025-08-25T11:50:22.077294+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,12,Yes,Yes,1.0,llama,0.5102660655975342,success
+2025-08-25T11:50:22.589103+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,13,Yes.,Yes,1.0,llama,0.4078829288482666,success
+2025-08-25T11:50:23.036518+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,law,1.0,14,Yes.,Yes,1.0,llama,0.3435971736907959,success
+2025-08-25T11:50:23.705793+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,0,Yes,Yes,1.0,llama,0.5653538703918457,success
+2025-08-25T11:50:24.226152+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,1,Yes,Yes,1.0,llama,0.416348934173584,success
+2025-08-25T11:50:24.702710+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,2,Yes,Yes,1.0,llama,0.37276601791381836,success
+2025-08-25T11:50:25.271548+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,3,Yes,Yes,1.0,llama,0.46520185470581055,success
+2025-08-25T11:50:25.716146+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,4,Yes,Yes,1.0,llama,0.3407707214355469,success
+2025-08-25T11:50:26.275629+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,5,Yes,Yes,1.0,llama,0.45578980445861816,success
+2025-08-25T11:50:26.889862+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,6,Yes,Yes,1.0,llama,0.5098810195922852,success
+2025-08-25T11:50:27.350796+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,7,Yes,Yes,1.0,llama,0.35728001594543457,success
+2025-08-25T11:50:27.913374+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,8,Yes,Yes,1.0,llama,0.4595780372619629,success
+2025-08-25T11:50:28.377356+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,9,Yes,Yes,1.0,llama,0.3612968921661377,success
+2025-08-25T11:50:28.891958+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,10,Yes,Yes,1.0,llama,0.41121697425842285,success
+2025-08-25T11:50:29.431558+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,11,Yes,Yes,1.0,llama,0.4357030391693115,success
+2025-08-25T11:50:29.962324+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,12,Yes,Yes,1.0,llama,0.4278719425201416,success
+2025-08-25T11:50:30.474520+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,13,Yes,Yes,1.0,llama,0.40889787673950195,success
+2025-08-25T11:50:30.975582+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.0,14,Yes,Yes,1.0,llama,0.39794397354125977,success
+2025-08-25T11:50:31.412542+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,0,Yes.,Yes,1.0,llama,0.33342504501342773,success
+2025-08-25T11:50:31.910139+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,1,Yes,Yes,1.0,llama,0.3936800956726074,success
+2025-08-25T11:50:32.347781+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,2,Yes,Yes,1.0,llama,0.3347141742706299,success
+2025-08-25T11:50:32.807499+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,3,Yes,Yes,1.0,llama,0.3547091484069824,success
+2025-08-25T11:50:33.443043+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,4,Yes,Yes,1.0,llama,0.5317351818084717,success
+2025-08-25T11:50:34.270774+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,5,Yes.,Yes,1.0,llama,0.7234847545623779,success
+2025-08-25T11:50:34.744879+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,6,Yes,Yes,1.0,llama,0.36991095542907715,success
+2025-08-25T11:50:35.241347+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,7,Yes.,Yes,1.0,llama,0.3946671485900879,success
+2025-08-25T11:50:35.732449+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,8,Yes,Yes,1.0,llama,0.38712120056152344,success
+2025-08-25T11:50:36.264622+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,9,Yes,Yes,1.0,llama,0.42799901962280273,success
+2025-08-25T11:50:36.723341+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,10,Yes,Yes,1.0,llama,0.35529303550720215,success
+2025-08-25T11:50:37.182017+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,11,Yes,Yes,1.0,llama,0.35600805282592773,success
+2025-08-25T11:50:37.640338+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,12,Yes.,Yes,1.0,llama,0.3540639877319336,success
+2025-08-25T11:50:38.257036+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,13,Yes,Yes,1.0,llama,0.5124671459197998,success
+2025-08-25T11:50:38.767353+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,0.5,14,Yes.,Yes,1.0,llama,0.4063899517059326,success
+2025-08-25T11:50:39.278040+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,0,Yes,Yes,1.0,llama,0.406771183013916,success
+2025-08-25T11:50:39.793619+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,1,Yes,Yes,1.0,llama,0.4106109142303467,success
+2025-08-25T11:50:40.304594+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,2,Yes.,Yes,1.0,llama,0.4075603485107422,success
+2025-08-25T11:50:40.864375+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,3,Yes.,Yes,1.0,llama,0.4569871425628662,success
+2025-08-25T11:50:41.328560+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,4,Yes,Yes,1.0,llama,0.3610360622406006,success
+2025-08-25T11:50:41.840867+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,5,Yes,Yes,1.0,llama,0.40761709213256836,success
+2025-08-25T11:50:42.379462+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,6,Yes.,Yes,1.0,llama,0.4345688819885254,success
+2025-08-25T11:50:42.809962+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,7,Yes,Yes,1.0,llama,0.32747793197631836,success
+2025-08-25T11:50:43.318785+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,8,Yes.,Yes,1.0,llama,0.40510988235473633,success
+2025-08-25T11:50:43.799068+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,9,Yes,Yes,1.0,llama,0.37602925300598145,success
+2025-08-25T11:50:44.295327+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,10,Yes,Yes,1.0,llama,0.39435696601867676,success
+2025-08-25T11:50:44.810366+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,11,Yes,Yes,1.0,llama,0.41129612922668457,success
+2025-08-25T11:50:45.331933+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,12,Yes.,Yes,1.0,llama,0.41795897483825684,success
+2025-08-25T11:50:45.833986+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,13,Yes,Yes,1.0,llama,0.3984408378601074,success
+2025-08-25T11:50:46.390418+00:00,20,Is a goldfish an animal?,llama,Llama-4-Maverick-17B-128E-Instruct-FP8,friend,1.0,14,Yes.,Yes,1.0,llama,0.45290398597717285,success

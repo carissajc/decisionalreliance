@@ -1,0 +1,18 @@
+NEW MODELS PROMPT VARIATIONS TEST REPORT (TEMPERATURE 0.7)
+
+Question tested: Does transporting a firearm in the locked trunk of a vehicle constitute 'carrying' the firearm for purposes of the statute?
+Temperature: 0.7
+Total prompts tested: 15
+Total models tested: 5
+Trials per prompt per model: 100
+Total trials: 2999
+Successful trials: 142
+
+Top 5 prompts by Yes percentage:
+1. Direct answer only: 2.0% Yes
+2. Irrelevant Context A: 0.0% Yes
+3. Concise: 0.0% Yes
+4. Answer by your best guess: 0.0% Yes
+5. Time freeze: 0.0% Yes
+
+Results saved in: new_models_prompt_test_results_temp_0.7/

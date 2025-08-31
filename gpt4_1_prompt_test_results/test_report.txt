@@ -1,0 +1,76 @@
+GPT-4.1 PROMPT VARIATION TEST REPORT
+============================================================
+
+Test Question: Does transporting a firearm in the locked trunk of a vehicle constitute 'carrying' the firearm for purposes of the statute?
+Model: gpt-4.1-2025-04-14
+Trials per prompt: 100
+Total prompt variations: 51
+Total trials: 5100
+Test completed: 2025-08-30 02:59:25
+
+RESULTS SUMMARY:
+--------------------
+Verbose: 100.0% Yes (100 trials)
+Concise: 20.0% Yes (100 trials)
+Answer by your best guess: 19.0% Yes (100 trials)
+50 Percent Sure: 18.0% Yes (100 trials)
+Irrelevant Context A: 2.0% Yes (100 trials)
+Random Constraint: 0.0% Yes (100 trials)
+Moral Frame: 0.0% Yes (100 trials)
+Negative Emotion: 0.0% Yes (100 trials)
+No Added Information: 0.0% Yes (100 trials)
+No thinking extensively allowed: 0.0% Yes (100 trials)
+Orange Desert: 0.0% Yes (100 trials)
+Polite Instruction: 0.0% Yes (100 trials)
+Positive Emotion: 0.0% Yes (100 trials)
+Purple Chalkboard: 0.0% Yes (100 trials)
+Red is the Best Color: 0.0% Yes (100 trials)
+Red Door: 0.0% Yes (100 trials)
+Loud Music: 0.0% Yes (100 trials)
+Red room with three chairs: 0.0% Yes (100 trials)
+Selfish Frame: 0.0% Yes (100 trials)
+Speak plainly: 0.0% Yes (100 trials)
+Step by Step: 0.0% Yes (100 trials)
+Strange Smell: 0.0% Yes (100 trials)
+Talking Dog: 0.0% Yes (100 trials)
+Time Freeze: 0.0% Yes (100 trials)
+Upside Down: 0.0% Yes (100 trials)
+Water Dripping: 0.0% Yes (100 trials)
+Melting Floor: 0.0% Yes (100 trials)
+Irrelevant Context B: 0.0% Yes (100 trials)
+Lawyer Style: 0.0% Yes (100 trials)
+Crowded Train: 0.0% Yes (100 trials)
+Banana Room: 0.0% Yes (100 trials)
+Blue Sky: 0.0% Yes (100 trials)
+Broken Clock: 0.0% Yes (100 trials)
+Caring Frame: 0.0% Yes (100 trials)
+Casual Style: 0.0% Yes (100 trials)
+Ceiling Cats: 0.0% Yes (100 trials)
+Commanding Instruction: 0.0% Yes (100 trials)
+Completely Certain: 0.0% Yes (100 trials)
+Contradictory Cue: 0.0% Yes (100 trials)
+Deja Vu: 0.0% Yes (100 trials)
+Invisible Friend: 0.0% Yes (100 trials)
+Direct Answer Only: 0.0% Yes (100 trials)
+Do not answer as an non-ordinary person: 0.0% Yes (100 trials)
+Empty Library: 0.0% Yes (100 trials)
+Floating Lamps: 0.0% Yes (100 trials)
+Four Shadows: 0.0% Yes (100 trials)
+Gold room with two lamps: 0.0% Yes (100 trials)
+Green is the Best Color: 0.0% Yes (100 trials)
+Immoral Frame: 0.0% Yes (100 trials)
+Infinite Mirrors: 0.0% Yes (100 trials)
+You're very good at your job: 0.0% Yes (100 trials)
+
+STATISTICS:
+---------------
+Highest % Yes: 100.0%
+Lowest % Yes: 0.0%
+Mean % Yes: 3.1%
+Standard Deviation: 14.6%
+
+MOST EFFECTIVE PROMPT (Highest % Yes):
+  Verbose: 100.0%
+
+LEAST EFFECTIVE PROMPT (Lowest % Yes):
+  You're very good at your job: 0.0%

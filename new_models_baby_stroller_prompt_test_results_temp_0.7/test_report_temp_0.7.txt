@@ -1,0 +1,18 @@
+NEW MODELS BABY STROLLER PROMPT VARIATIONS TEST REPORT (TEMPERATURE 0.7)
+
+Question tested: Is a 'baby stroller' a 'vehicle'?
+Temperature: 0.7
+Total prompts tested: 15
+Total models tested: 5
+Trials per prompt per model: 100
+Total trials: 3000
+Successful trials: 1061
+
+Top 5 prompts by Yes percentage:
+1. Irrelevant Context A: 50.0% Yes
+2. Blue sky: 50.0% Yes
+3. Broken clock: 50.0% Yes
+4. Green is the best color: 47.0% Yes
+5. Red door: 46.5% Yes
+
+Results saved in: new_models_baby_stroller_prompt_test_results_temp_0.7/

@@ -1,0 +1,52 @@
+prompt_name,n_trials,n_yes,percent_yes,std_dev
+50 Percent Sure,100,18,18.0,0.386
+Answer by your best guess,100,19,19.0,0.394
+Banana Room,100,0,0.0,0.0
+Blue Sky,100,0,0.0,0.0
+Broken Clock,100,0,0.0,0.0
+Caring Frame,100,0,0.0,0.0
+Casual Style,100,0,0.0,0.0
+Ceiling Cats,100,0,0.0,0.0
+Commanding Instruction,100,0,0.0,0.0
+Completely Certain,100,0,0.0,0.0
+Concise,100,20,20.0,0.402
+Contradictory Cue,100,0,0.0,0.0
+Crowded Train,100,0,0.0,0.0
+Deja Vu,100,0,0.0,0.0
+Direct Answer Only,100,0,0.0,0.0
+Do not answer as an non-ordinary person,100,0,0.0,0.0
+Empty Library,100,0,0.0,0.0
+Floating Lamps,100,0,0.0,0.0
+Four Shadows,100,0,0.0,0.0
+Gold room with two lamps,100,0,0.0,0.0
+Green is the Best Color,100,0,0.0,0.0
+Immoral Frame,100,0,0.0,0.0
+Infinite Mirrors,100,0,0.0,0.0
+Invisible Friend,100,0,0.0,0.0
+Irrelevant Context A,100,2,2.0,0.141
+Irrelevant Context B,100,0,0.0,0.0
+Lawyer Style,100,0,0.0,0.0
+Loud Music,100,0,0.0,0.0
+Melting Floor,100,0,0.0,0.0
+Moral Frame,100,0,0.0,0.0
+Negative Emotion,100,0,0.0,0.0
+No Added Information,100,0,0.0,0.0
+No thinking extensively allowed,100,0,0.0,0.0
+Orange Desert,100,0,0.0,0.0
+Polite Instruction,100,0,0.0,0.0
+Positive Emotion,100,0,0.0,0.0
+Purple Chalkboard,100,0,0.0,0.0
+Random Constraint,100,0,0.0,0.0
+Red Door,100,0,0.0,0.0
+Red is the Best Color,100,0,0.0,0.0
+Red room with three chairs,100,0,0.0,0.0
+Selfish Frame,100,0,0.0,0.0
+Speak plainly,100,0,0.0,0.0
+Step by Step,100,0,0.0,0.0
+Strange Smell,100,0,0.0,0.0
+Talking Dog,100,0,0.0,0.0
+Time Freeze,100,0,0.0,0.0
+Upside Down,100,0,0.0,0.0
+Verbose,100,100,100.0,0.0
+Water Dripping,100,0,0.0,0.0
+You're very good at your job,100,0,0.0,0.0
