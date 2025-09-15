@@ -1,0 +1,6 @@
+provider,model,n_trials,n_yes,percent_yes
+openai,gpt-4.1-2025-04-14,1500,171,11.4
+anthropic,claude-sonnet-4-20250514,1434,739,51.534170153417016
+grok,grok-4-0709,0,0,0.0
+google,gemini-2.0-flash-exp,0,0,0.0
+llama,llama-3.1-8b-instruct,1500,1500,100.0

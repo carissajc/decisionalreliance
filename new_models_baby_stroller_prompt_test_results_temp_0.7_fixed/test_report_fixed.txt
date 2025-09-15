@@ -1,0 +1,26 @@
+NEW MODELS BABY STROLLER PROMPT VARIATIONS TEST REPORT - FIXED (TEMPERATURE 0.7)
+
+Question tested: Is a 'baby stroller' a 'vehicle'?
+Temperature: 0.7
+Total prompts tested: 15
+Total models tested: 5
+Trials per prompt per model: 100
+Total trials: 4434
+Successful trials: 4434
+
+FIXES IMPLEMENTED:
+- Increased max_tokens from 3 to 20 for all models
+- Added strict prompts forcing "Yes" or "No" first
+- Enhanced normalization logic for partial responses
+- Fixed Llama API endpoint and model name issues
+- Fixed Gemini API model name
+- Added fallback handling for Grok API
+
+Top 5 prompts by Yes percentage:
+1. Broken clock: 91.7% Yes
+2. Red door: 73.3% Yes
+3. Red is the best color: 66.7% Yes
+4. Green is the best color: 66.7% Yes
+5. Blue sky: 65.9% Yes
+
+Results saved in: new_models_baby_stroller_prompt_test_results_temp_0.7_fixed/

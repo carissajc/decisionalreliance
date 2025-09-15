@@ -23,9 +23,16 @@ import anthropic
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# API Keys
-OPENAI_API_KEY = "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"
-ANTHROPIC_API_KEY = "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"
+# API Keys - Set these as environment variables
+import os
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+
+# Check if API keys are provided
+if not OPENAI_API_KEY:
+    raise ValueError("OPENAI_API_KEY environment variable is required")
+if not ANTHROPIC_API_KEY:
+    raise ValueError("ANTHROPIC_API_KEY environment variable is required")
 
 # Test question
 TEST_QUESTION = "Is a 'baby stroller' a 'vehicle'?"

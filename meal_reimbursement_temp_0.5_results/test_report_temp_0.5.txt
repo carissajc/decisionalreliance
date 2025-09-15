@@ -1,0 +1,17 @@
+HISTORICAL MODELS MEAL REIMBURSEMENT TEST REPORT (TEMPERATURE 0.5)
+
+Question tested: Does "meal reimbursement" fall within the definition of "money remuneration"?
+Temperature: 0.5
+Total models tested: 16
+Trials per model: 100
+Total trials: 1600
+Successful trials: 430
+
+Top 5 models by number of Yes responses:
+1. gpt-3.5-turbo-0125: 100/100 Yes (100.0%)
+2. gpt-3.5-turbo-1106: 100/100 Yes (100.0%)
+3. gpt-4-0613: 100/100 Yes (100.0%)
+4. gpt-3.5-turbo-instruct: 39/100 Yes (39.0%)
+5. gpt-4-0125-preview: 30/100 Yes (30.0%)
+
+Results saved in: meal_reimbursement_temp_0.5_results/

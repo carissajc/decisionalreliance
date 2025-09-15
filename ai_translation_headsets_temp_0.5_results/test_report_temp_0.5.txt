@@ -1,0 +1,17 @@
+HISTORICAL MODELS AI TRANSLATION HEADSETS TEST REPORT (TEMPERATURE 0.5)
+
+Question tested: Does "compensation of interpreters" include the cost of AI-equipped translation headsets?
+Temperature: 0.5
+Total models tested: 16
+Trials per model: 100
+Total trials: 1600
+Successful trials: 92
+
+Top 5 models by number of Yes responses:
+1. gpt-4-0613: 59/100 Yes (59.0%)
+2. gpt-3.5-turbo-0125: 7/100 Yes (7.0%)
+3. gpt-3.5-turbo-1106: 6/100 Yes (6.0%)
+4. gpt-4-turbo-2024-04-09: 1/100 Yes (1.0%)
+5. gpt-3.5-turbo-instruct: 0/100 Yes (0.0%)
+
+Results saved in: ai_translation_headsets_temp_0.5_results/
